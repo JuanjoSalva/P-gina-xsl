@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Proyecto.xsl"?>
+<!DOCTYPE pagina SYSTEM "Proyecto.dtd">
+
+<pagina>
+	<titulo> PROYECTO EDUCATIVO </titulo>
+	<texto>
+		<txt>  
+			Procuramos que en la escuela los niños adquieren las cualidades necesarias para actuar en su entorno, empezar a ser autónomos.
+		</txt>
+	</texto>	
+	
+	<texto>
+		<txt>Nuestro proyecto educativo pretende ante todo que los niños empiecen el día con alegría, pretendemos conseguir </txt>
+		<txt>que los niños se sientan cómodos, seguros y felices en la escuela. La relación escuela - familia es muy importante </txt>
+		<txt>para nuestros objetivos y por ello queremos ser un centro cercano a las familias dando respuestas a inquietudes </txt>
+		<txt>que puedan surgir, así como haciendo participes a los padres en todas aquellas actividades que desarrollemos.</txt>		
+	</texto>	
+	
+	
+	<texto>
+		<txt>  
+			Dentro de nuestro proyecto la estimulación temprana juega un papel muy importante.
+		</txt>
+	</texto>	
+	
+	
+	<texto>
+		<txt>Desde los primeros meses de vida trabajamos la estimulación de todos los sentidos mediante los masajes, </txt>
+		<txt>la psicomotricidad y los bits de inteligencia.</txt>
+	</texto>	
+	
+	<texto>
+		<txt>  
+			Todo nuestro trabajo esta basado en el aprendizaje mediante la experimentación y el juego.
+		</txt>
+	</texto>	
+
+
+
+
+
+
+
+</pagina>
+  

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "tablon.xsl"?>
+<!DOCTYPE pagina SYSTEM "tablon.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			TABLÓN
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<!-- Cada fila son tres posit() = <nota> como mucho-->		
+		<!-- Los txt son las lineas dentro de cada posit para que al escribir no se salga de él. Cada linea de tener como mucho 28 caracteres -->
+		<fila>
+			<nota>
+				
+				<txt>
+					Talleres 
+				</txt>
+				
+				<txt>
+					en Semana Santa. Entra en 
+				</txt>
+				
+				<txt>
+					Papis/Semana Santa
+				</txt>
+				  
+			</nota>
+			
+			<nota>
+				<txt>
+					Actividades Verano.
+				</txt>
+				
+				<txt>
+					Entra en 
+				</txt>
+				
+				<txt>
+					Papis/Verano
+				</txt>
+			</nota>	
+			
+			<nota>
+				<txt>
+					
+				</txt>
+			</nota>	
+		</fila>		
+		
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

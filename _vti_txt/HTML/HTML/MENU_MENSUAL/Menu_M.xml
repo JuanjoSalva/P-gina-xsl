@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<?xml-stylesheet type="text/xsl" href= "Menu_M.xsl"?>
+<!DOCTYPE pagina SYSTEM "Menu_M.dtd">
+ 
+<pagina>
+	<titulo>MENU MENSUAL</titulo>
+	<cuerpo>
+		<texto>Para ver el menu del día pinche una vez sobre el día deseado.         Nota: "el menú se actualiza mensualmente".</texto>		
+	</cuerpo>	
+	
+	<pie>
+		<menu>
+			<dia> 1 </dia>
+			<comida>Lentejas, si las quieres las tomas y si no las dejas</comida>
+			<merienda>Lentejas frías</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 2 </dia>
+			<comida>Lenteja de ayer recalentadas</comida>
+			<merienda>Lentejas de ayer frías</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 3 </dia>
+			<comida>jejeje, Lentejas de anteayer chamustadas.</comida>
+			<merienda>joeeeeer, lentejas de anteayer frías</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 4 </dia>
+			<comida>ummmm, pescadito.</comida>
+			<merienda>pescadito frío.</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 5 </dia>
+			<comida>Sobras de ca'Miriam</comida>
+			<merienda>se lo comió Habana.</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 6 </dia>
+			<comida>Veeeeeeeenga, hoy sí, espinacas. </comida>
+			<merienda>no sé que pasa, espinacas frías.</merienda>
+		</menu>
+		
+		<menu>
+			<dia> 7 </dia>
+			<comida>Espinacas recalentadas.</comida>
+			<merienda>Paaaaaaaaaaaaaaaaso.</merienda>
+		</menu>
+	</pie>	
+</pagina>
+  

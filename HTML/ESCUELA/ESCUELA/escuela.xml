@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "escuela.xsl"?>
+<!DOCTYPE pagina SYSTEM "escuela.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			LA ESCUELA
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>	
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<texto>
+				<txt>
+					La E.I. Duendes está ubicada en San Vicente. Contamos con 3 aulas, una para cada nivel: de 0 a 1 año, de 1 a 2 años y de 2 a 3 años. 				
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Todo pensado para su seguridad, enchufes altos, manillas de las puertas altas, cierres de seguridad en las ventanas, protecciones de dedos en puertas, columnas acolchadas, paredes redondeadas.
+				</txt>
+			</texto>				
+		</fila>	
+		
+		<fila>
+			<texto>
+				<txt>
+					Con 130 m  de patios diferenciados por edades, comedor( sala de usos múltiples), baños adaptados para ellos.			
+				</txt>
+			</texto>
+		</fila>
+		
+		<fila>
+			<texto>
+				<txt>
+					En todas las aulas tenemos lavabos adaptados para que ellos mismos puedan lavarse  y preocuparse por su higiene.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Toda la escuela esta climatizada.
+				</txt>
+			</texto>
+		</fila>
+		
+		
+		<fila>
+			<texto>
+				<txt>
+					Todas las instalaciones creadas según normativa del 2008 de Conselleria de Educación de la Comunidad Valenciana.
+				</txt>			
+			</texto>
+		</fila>
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<musica>
+			../../../IMAGENES/images/musicaoff.jpg			
+		</musica>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

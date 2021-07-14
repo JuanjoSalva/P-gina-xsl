@@ -1,0 +1,18 @@
+<!ELEMENT pagina (cabecera,cuerpo,pie)>
+	<!ELEMENT cabecera (titulo, texto)>
+		<!ELEMENT titulo (#PCDATA)>
+		<!ELEMENT texto (#PCDATA)>
+		
+	<!ELEMENT cuerpo (grado*)>
+		<!ELEMENT grado (nombre,color,ruta)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT color (#PCDATA)>
+		<!ELEMENT ruta (#PCDATA)>
+				
+	<!ELEMENT pie (link1, link2, boton)>
+		<!ELEMENT link1 (#PCDATA)>
+		<!ELEMENT link1 (#PCDATA)>
+		<!ELEMENT boton (#PCDATA)>
+		
+	
+	

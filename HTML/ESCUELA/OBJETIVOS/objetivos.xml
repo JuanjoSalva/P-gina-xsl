@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "objetivos.xsl"?>
+<!DOCTYPE pagina SYSTEM "objetivos.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			OBJETIVOS
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<punto>
+				<txt>
+					- Nuestro principal objetivo es que los niños se sientan felices en la escuela y aprendan a desenvolverse en el entorno.
+				</txt>
+			</punto>
+			
+			<punto>
+				<txt>
+					- Queremos que se sientan como en una segunda casa, niños y papis, y que estén tranquilos.
+				</txt>
+			</punto>
+		</fila>
+		
+		<fila>
+			<punto>
+				<txt>
+					- Cubrir las necesidades fisiológicas de los niños: higiene, descanso y alimentación.
+				</txt>
+			</punto>
+			
+			<punto>
+				<txt>
+					- Proporcionar al niño un ambiente feliz, cálido y seguro donde desarrolle sus conocimientos y aprendizajes.
+				</txt>
+			</punto>
+		</fila>
+		
+	</cuerpo>
+	
+	<pie>		
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+</pagina>
+  

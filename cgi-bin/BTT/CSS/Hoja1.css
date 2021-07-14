@@ -1,0 +1,158 @@
+/*LINKS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+/*Para seleccionar todos los link y quitarles el estilo y poneles color gris*/
+
+.normal {font-size: 10pt;}
+A.normal:link,A.normal:visited {color: #0000FF;}
+A.normal:hover {color: #800000;}
+
+/*Y creas la clase "por defecto" para la mayoria de link*/
+
+A:link,A:visited {text-decoration: none;color: #0000CC;}
+A:hover {text-decoration: overline;}
+
+
+A:link{text-decoration:none; color:black;}
+A:visited{text-decoration:none; color:black;}
+A:hover {color:black; font-size:20px;}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*CUERPO*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+body.negro{background:#000000; color: #FFFFFF;}
+body.amarillo{background:#FFFF9E;}
+html, body { height: 100%;}
+html.icono{background-image: url('../../../IMAGENES/FONDOS/Logo.bmp'); background-attachment: fixed;}
+body.icono{background-image: url('../../../IMAGENES/FONDOS/Logo.bmp'); background-attachment: fixed;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*TITULOS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+/*Esto hace que la todas las cabecera H2 no tenga un espacio tan grande entre la H1 y quede mejor*/
+h1+h2{margin-top:-0.5em;}
+h1+h2{font-size:12pt;}
+h1.portada{color:white; font-size:16pt;}
+h2.portada{color:white; font-size:14pt;}
+h3.portada{color:white; font-size:12pt;}
+h1.titulo{color:black; font-size:16pt;}
+h2.titulo{color:black; font-size:14pt;}
+h3.titulo{color:black; font-size:12pt;}
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*IMAGENES*/
+/*Quitar cajas a las imagenes*/
+img{border:none;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*MARQUESINAS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+marquee{color:white;}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*CAJAS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+div.mostrar{overflow:visible}
+/*div.barra{overflow:scroll-y;}*/
+div.flota{float:left;}
+div.noflota{float:none;}
+div.margenmedio{margin-left:0.5cm;}
+div.margen{margin-left:1cm;}
+div.margen1{margin-left:2cm;}
+div.margen2{margin-left:4cm;}
+div.margen2medio{margin-left:4.5cm;}
+div.margen3{margin-left:6cm;}
+div.margen4{margin-left:19.5cm;}
+div.margen5{margin-left:10cm;}
+div.nomargen{margin-left:0cm;}
+div.parrafo {margin-top:40px; margin-left:0cm;}
+div.parrafo1 {margin-top:80px; margin-left:0cm;}
+div.parrafo2 {margin-top:20px; margin-left: 0cm;}
+div.margenmenos1{margin-left:-3cm;}
+div.margenmenos2{margin-left:-2cm;}
+div.margennegativo{margin-left:-4cm;}
+div.arriba{margin-top:0cm;}
+
+div.ColorBoton1{background-color:#9999FF;}
+div.ColorBoton2{background-color:#CCCCFF;}
+
+div.borde {border: thick solid red;}   
+div.borde1 {border: 10px outset #cccccc;}
+div.borde2{border: 4px outset #cccccc; background:#F4D7B0;color:#000000; width:7%; font-weight:bold;}
+div.borde3{border: 4px outset #FFFF9E; background:#AEDEF4;color:#000000; width:20%; font-weight:bold;font-size:16pt;}
+
+/*SINO SE VEN LAS LETRAS. En vez de font-size:4% tenía font-size:17px.  */
+div.color_blanco{background-color:#FFFFFF; color:#000000; height:2%; width:8%; color:white; font-weight:800; font-size:12pt;}
+div.color_naranja{background-color:#E35812; color:#FFFFFF; height:2%; width:20%; color:black; font-weight:800; font-size:12pt;}
+div.color_verde{background-color:#ABF440; color:#FFFFFF; height:2%; width:20%; color:black; font-weight:800; font-size:12pt;}
+div.color_amarillo{background-color:#FFFF00; color:#FFFFFF; height:2%; width:20%; color:black; font-weight:800; font-size:12pt;}
+div.color_azul{background-color:#007AC9; color:#FFFFFF; height:2%; width:20%; color:black; font-weight:800; font-size:12pt;}
+div.color_rosa{background-color:#CC33FF; color:#FFFFFF; height:2%; width:20%; color:black; font-weight:800; font-size:12pt;}
+
+div.colorbajo{background-color:green; color:#FFFFFF; width:150px; height:30px; font-size:12pt; font-weight:700;}
+div.colormedio{background-color:blue; color:#FFFFFF; width:150px; height:30px; font-size:12pt; font-weight:700;}
+div.coloralto{background-color:black; color:#FFFFFF; width:150px; height:30px; font-size:12pt; font-weight:700;}
+div.colormuyalto{background-color:red; color:#FFFFFF; width:150px; height:30px; font-size:12pt; font-weight:700;}
+div.boton{background-color:yellow}
+div.color_banda{background-color:black;}
+
+div.Panel_Izquierdo {position: absolute; left:0cm; top:1%; width:5%; height:100%; overflow:auto; border:1px solid black; background:black;}
+div.Panel_Derecho {position:absolute; right:0cm; top:1%; width:5%; height:100%; overflow:auto; background:black;}
+div.Panel_Central {position:absolute; left:2cm; width:90%; height:100%; overflow: visible;}
+div.invisble{background-color:blue;}
+/*div.invisible{div.block;}*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+/*
+TEXTOS
+*/
+{font:normal 97% Tahoma, Arial;} 
+
+.Arial {font:normal 97% Tahoma, Arial;}  
+
+textarea {font:normal 97% Tahoma, Arial;}  
+
+.sombra1 {margin-top:-24px; color:yellow; font-size:20px; font-family:Verdana;}
+
+.sombra2{margin-top:2px; margin-left:2px; color:black; font-size:20px; font-family:Verdana;}
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*TAMAÑOS*/
+div.tamaño1{width:100%; height:30%}
+
+
+.etiqueta {overflow: auto;}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+/*BOTONES*/
+input.boton{border:6px outset #cccccc; background:#C2D3FC; color:black; font-family:Verdana, Arial; font-size: xx-small; font-weight:bold;}
+input.boton1{border:6px outset #cccccc; background:#FFD5AA; color:black; font-family:Verdana, Arial; font-size: xx-small; font-weight:bold;}
+input.boton2{border:2px outset #cccccc; background:#FFD5AA; color:black; font-family:Verdana, Arial; font-size: xx-small; font-weight:bold;}
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+

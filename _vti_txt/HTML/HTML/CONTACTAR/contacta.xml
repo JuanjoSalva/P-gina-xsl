@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "contacta.xsl"?>
+<!DOCTYPE pagina SYSTEM "contacta.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>CONTACTAR</titulo>
+	</cabecera>
+	
+	<cuerpo>
+		<rotulo>
+			ESCUELA INFANTIL DUENDES
+		</rotulo>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<localidad>
+			03690        SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			TELÉFONOS:  679473537/636381442
+		</telefono>
+		
+	</cuerpo>
+	
+    <pie>
+		<correo>
+			informacion@duendesdesanvicente.com
+		</correo>
+		
+		<asunto>
+			informacion
+		</asunto>
+	</pie>
+</pagina>
+  

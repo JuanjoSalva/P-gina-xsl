@@ -1,0 +1,96 @@
+/*CUERPO*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+html, body { height: 100%; width: 100%}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+/*LINK*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+A:hover {cursor: hand;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*IMAGENES*/
+/*Quitar cajas a las imagenes*/
+img{border:none;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+/*BOTONES*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+.boton{ font-size:10px; font-family:Verdana,Helvetica; font-weight:bold; color:red; border:0px; width:80px; height:19px;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+	   
+/*CAJAS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+div.mostrar{overflow:visible}
+
+div.borde {border: thick solid red;}   
+div.flota{float:left;}
+div.noflota{float:none;}
+div.margenmedio1{margin-left:0.2cm;}
+div.margenmedio{margin-left:0.5cm;}
+div.margen{margin-left:2%;}
+div.margen1{margin-left:5%;}
+div.margen2{margin-left:20%;}
+div.margen2medio{margin-left:20%;}
+div.margen3{margin-left:30%;}
+div.margen4{margin-left:40%;}
+div.margen4{margin-left:70%;}
+div.margen5{margin-left:2%;}
+div.margen6{margin-left:10%;}
+div.margen7{margin-left:5%;}
+div.nomargen{margin-left:0cm;}
+div.parrafo {margin-top:5%; margin-left:0%;}
+div.parrafo1 {margin-top:2%; margin-left:0%;}
+div.parrafo2 {margin-top:2%; margin-left: 0%;}
+div.parrafo3{margin-top:2%; margin-left: 0%;}
+div.parrafo4 {margin-top:10%; margin-left:0%;}
+div.posit{margin-left: 2.5cm;}
+div.margenmenos1{margin-left:-3cm;}
+div.margenmenos2{margin-left:-2cm;}
+div.margennegativo{margin-left:-4cm;}
+div.arriba{margin-top:0%;}
+
+
+div.escuela {background-color:#9CBA1F; color:#FFFFFF; width:6.375em; height:3.750em;}
+div.papis{background-color:#FFA200; color:#FFFFFF; width:5.375em; height:5.625em;}
+div.ayuda{background-color:#C93535; color:#FFFFFF; width:8.375em; height:2.500em;}
+div.matricula{background-color:#15C1E5; color:#FFFFFF; width:7.375em; height:6.250em;}
+div.ingles{background-color:#8080C0; color:#FFFFFF; width:5.375em; height:2.500em;}
+
+
+/*div.escuela {background-color:#9CBA1F; color:#FFFFFF; width:100%; height:100%;}
+div.papis{background-color:#FFA200; color:#FFFFFF; width:100%; height:150%;}
+div.ayuda{background-color:#C93535; color:#FFFFFF; width:100%; height:120%;}
+div.matricula{background-color:#15C1E5; color:#FFFFFF; width:100%; height:130%;}
+div.ingles{background-color:#8080C0; color:#FFFFFF; width:100%; height:100%;}*/
+
+
+div.vertical{color:#0B0B0B; height:2%;}
+
+
+/*Esto hace que los parrafos que implementen la class = "tabulado" tengan un tabulado de 10px en su primera linea*/
+P.tabulado {text-indent:2em}
+P:first-letter{text-transform:uppercase; font-size:150%;font-weight:bold}
+
+
+/*CELDAS*/
+/*td.fondo_posit {	background-image: url('../IMAGENES/images/nota.gif'); width: 40%; height:40%; background-repeat: no-repeat; background-position: center;  padding: 0 0 0 0; }*/
+td.fondo_posit {	background-image: url('../IMAGENES/images/nota.gif'); width: 30%; height:30%; background-repeat: no-repeat;  background-position: center; padding: 0 0 0 0; }
+table.Fondo_corcho{position: absolute; background-image: url('../IMAGENES/images/corcho.jpg'); width: 80%; height:60%;}
+td.derecha{margin-right:0; text-align: center }
+td.contacto{text-align:center; padding-left: 3.125em; width : 25%}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Instalaciones.xsl"?>
+<!DOCTYPE pagina SYSTEM "Instalaciones.dtd">
+ 
+<galeria>
+    <titulo>FOTOS DE LA ESCUELA</titulo>
+	<texto1>Pulse categoria y tema para ver las fotos de la galeria </texto1>
+	<categoria>
+		<id>A</id>
+		<tema>Clase de 0 a 1 año</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Dónde trabajan</texto>
+			<foto>Imagenes/img/0_1.JPG</foto>
+			<foto>Imagenes/img/0_3.JPG</foto>						
+			<foto>Imagenes/img/0_4.JPG</foto>
+			<foto>Imagenes/img/0_5.JPG</foto>						
+		</lista>
+	</categoria>
+	
+	<categoria>
+		<id>B</id>
+		<tema>Clase de 1 a 2 año</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Dónde trabajan</texto>
+			<foto>Imagenes/img/1_2.JPG</foto>
+			<foto>Imagenes/img/1_7.JPG</foto>
+			<foto>Imagenes/img/1_8.JPG</foto>
+			<foto>Imagenes/img/1_9.JPG</foto>						
+		</lista>
+	</categoria>
+	
+	<categoria>
+		<id>C</id>
+		<tema>Clase de 2 a 3 años</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Más trabajos</texto>
+			<foto>Imagenes/img/2_4.JPG</foto>
+			<foto>Imagenes/img/2_5.JPG</foto>						
+			<foto>Imagenes/img/2_6.JPG</foto>
+			<foto>Imagenes/img/2_7.JPG</foto>
+		</lista>
+	</categoria>
+	
+    <categoria>
+		<id>D</id>
+		<tema>Patios</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Patio 1</texto>
+			<foto>Imagenes/img/3_1.JPG</foto>				
+			<foto>Imagenes/img/3_3.JPG</foto>				
+		</lista>
+		
+		<lista>
+			<id1>2</id1>
+			<texto>Patio 2</texto>
+			<foto>Imagenes/img/4_4.JPG</foto>				
+			<foto>Imagenes/img/4_8.JPG</foto>				
+		</lista>
+	</categoria>
+</galeria>
+  
+

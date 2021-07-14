@@ -1,0 +1,16 @@
+<!ELEMENT pagina (cuerpo, pie)>
+	<!ELEMENT cuerpo (foto1?, texto1, texto2, foto2?)>
+		<!ELEMENT foto1 (#PCDATA)>
+		<!ELEMENT texto1 (#PCDATA)>
+		<!ELEMENT texto2 (#PCDATA)>
+		<!ELEMENT foto2 (#PCDATA)>
+	<!ELEMENT pie (boton*, link?)>
+		<!ELEMENT boton (texto, ruta, color)>
+			<!ELEMENT texto (#PCDATA)>
+			<!ELEMENT ruta (#PCDATA)>
+			<!ELEMENT color (#PCDATA)>
+		<!ELEMENT link (ruta, texto)>
+			<!ELEMENT ruta (#PCDATA)>
+			<!ELEMENT texto (#PCDATA)>
+		
+	

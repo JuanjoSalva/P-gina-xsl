@@ -1,0 +1,19 @@
+<!ELEMENT arbol (ruta*)>
+<!ELEMENT ruta (fecha, nombre, pais, ciudad, localidad, dificultad, distancia, altitud_min, altitud_max, desnivel_acum_subiendo, desnivel_acum_bajando, mapa?, imagen?)>
+
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT dificultad (#PCDATA)>
+<!ELEMENT distancia (#PCDATA)>
+<!ELEMENT altitud_min (#PCDATA)>
+<!ELEMENT altitud_max (#PCDATA)>
+<!ELEMENT desnivel_acum_subiendo (#PCDATA)> 
+<!ELEMENT desnivel_acum_bajando (#PCDATA)>
+<!ELEMENT mapa (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>
+
+
+

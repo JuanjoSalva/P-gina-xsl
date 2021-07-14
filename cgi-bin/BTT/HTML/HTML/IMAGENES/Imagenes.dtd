@@ -1,0 +1,11 @@
+<!ELEMENT galeria (titulo,texto1,categoria)>
+	<!ELEMENT titulo (#PCDATA)>
+	<!ELEMENT texto1 (#PCDATA)>
+	
+	<!ELEMENT categoria (id,tema,lista*)>
+		<!ELEMENT id (#PCDATA)>
+		<!ELEMENT tema (#PCDATA)>
+		<!ELEMENT lista (id1,texto,foto*)>
+			<!ELEMENT id1 (#PCDATA)>
+			<!ELEMENT texto (#PCDATA)>
+			<!ELEMENT foto (#PCDATA)>

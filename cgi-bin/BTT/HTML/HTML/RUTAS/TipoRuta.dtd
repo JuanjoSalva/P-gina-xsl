@@ -1,0 +1,25 @@
+<!ELEMENT pagina (cabecera,cuerpo,pie)>
+	<!ELEMENT cabecera (titulo, texto)>
+		<!ELEMENT titulo (#PCDATA)>
+		<!ELEMENT texto (#PCDATA)>
+		
+	<!ELEMENT cuerpo (ruta*)>
+		<!ELEMENT ruta (nombre,mapa,texto1,imagen,grado,distancia,altitud_min,altitud_max,des_sub,des_baj)>
+			<!ELEMENT nombre (#PCDATA)>
+			<!ELEMENT mapa (#PCDATA)>
+			<!ELEMENT texto1 (#PCDATA)>
+			<!ELEMENT imagen (#PCDATA)>
+			<!ELEMENT grado (#PCDATA)>
+			<!ELEMENT distancia (#PCDATA)>
+			<!ELEMENT altitud_min (#PCDATA)>
+			<!ELEMENT altitud_max (#PCDATA)>
+			<!ELEMENT des_sub (#PCDATA)>
+			<!ELEMENT des_baj (#PCDATA)>
+		
+	
+	<!ELEMENT pie (link1, link2)>
+		<!ELEMENT link1 (#PCDATA)>
+		<!ELEMENT link1 (#PCDATA)>
+		
+	
+	

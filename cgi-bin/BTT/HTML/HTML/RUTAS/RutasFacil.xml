@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "TipoRuta.xsl"?>
+<!DOCTYPE pagina SYSTEM "TipoRuta.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>RUTAS DIFICULTAD FÁCIL </titulo>
+			<texto>Si se queire un poco de explicación, sino se puede borrar y dejar en blanco para un futuro.</texto>
+	</cabecera>
+	
+	<cuerpo>
+		<ruta>
+			<nombre>RUTA DE RADIQUERO</nombre>
+			<mapa>Imagen/Facil/Mapa/Radiquero.bmp</mapa>
+			<texto1>Cerca de Radiquero, Aragón (España)</texto1>
+			<imagen>Imagen/Facil/Desnivel/Radiquero.jpg</imagen>
+			<grado>Fácil</grado>
+			<distancia>20,93 km</distancia>
+			<altitud_min>472 metros</altitud_min>
+			<altitud_max>852 metros</altitud_max>
+			<des_sub>478 metros</des_sub>
+			<des_baj>508 metros</des_baj>
+		</ruta>
+		
+		<ruta>
+			<nombre>RUTA DE CIUDAD REAL-CALATRAVA</nombre>
+			<mapa>Imagen/Facil/Mapa/Calatrava.bmp</mapa>
+			<texto1>cerca de Ciudad Real, Castilla-La Mancha (España) </texto1>
+			<imagen>Imagen/Facil/Desnivel/Calatrava.jpg</imagen>
+			<grado>Fácil</grado>
+			<distancia>33,67 km</distancia>
+			<altitud_min>604 metros</altitud_min>
+			<altitud_max>650 metros</altitud_max>
+			<des_sub>79 metros</des_sub>
+			<des_baj>87 metros</des_baj>
+		</ruta>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>		
+	</pie>
+	
+	
+</pagina>
+  

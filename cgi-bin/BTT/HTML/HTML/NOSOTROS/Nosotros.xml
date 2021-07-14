@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Nosotros.xsl"?>
+<!DOCTYPE pagina SYSTEM "Nosotros.dtd">
+ 
+<pagina>
+  <encabez>
+    <titulo>NOSOTROS</titulo>
+    <texto1>Aquí un poco de historia sobre vosotros:</texto1>
+    <lista>¿Cómo os conocisteis?.</lista> 
+	<lista>¿Cómo empezasteís?.</lista> 
+	<lista>¿A que os dedicais?.</lista> 
+	<lista>¿De dónde sois?.</lista> 
+	<lista>¿Cuándo quedaís y qué haceís después?.</lista>
+	<texto2>No sé, un poco de esas cosas para daros a conocer y si eso alguna fotillo.</texto2>
+  </encabez>
+  
+  <cuerpo>
+    <foto>Imagenes/imagen1.jpg</foto>
+	<foto>Imagenes/imagen2.jpg</foto>
+	<foto>Imagenes/imagen6.jpg</foto>
+	<foto>Imagenes/imagen8.jpg</foto>	
+  </cuerpo>
+  
+  <pie>
+    <link1>Volver al Principio</link1>
+	<link2>Inicio</link2>
+  </pie>
+</pagina>

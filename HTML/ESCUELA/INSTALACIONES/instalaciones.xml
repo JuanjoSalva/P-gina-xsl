@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "instalaciones.xsl"?>
+<!DOCTYPE galeria SYSTEM "instalaciones.dtd">
+ 
+<galeria>
+    <titulo>FOTOS DE LA ESCUELA</titulo>
+	<texto1> ESCUELA INFANTIL DUENDES</texto1>
+	<txt>Pulse categoria y tema para ver las fotos de la galeria </txt>
+	<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+	<categoria>
+		<id>A</id>
+		<tema>1.- Clase de las Tortugas</tema>
+		<lista>
+			<id1>3</id1>
+			<texto>Fotos</texto>
+			<foto>
+				<ruta>Imagenes/Tortugas/T1.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Tortugas/T2.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Tortugas/T3.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+		</lista>
+	</categoria>
+	
+	<categoria>
+		<id>B</id>
+		<tema>2.- Clase de las Ranas</tema>
+		<lista>
+			<id1>4</id1>
+			<texto>Fotos</texto>
+			<foto>
+				<ruta>Imagenes/Ranas/R1.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Ranas/R2.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Ranas/R3.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Ranas/R4.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+		</lista>
+	</categoria>
+	
+	<categoria>
+		<id>C</id>
+		<tema>3.- Clase de los Conejos</tema>
+		<lista>
+			<id1>4</id1>
+			<texto>Fotos</texto>
+			<foto>
+				<ruta>Imagenes/Conejos/C1.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Conejos/C2.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Conejos/C3.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Conejos/C4.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+		</lista>
+	</categoria>
+	
+    <categoria>
+		<id>D</id>
+		<tema>4.- Patios</tema>
+		<lista>
+			<id1>4</id1>
+			<texto>Fotos</texto>
+			<foto>
+				<ruta>Imagenes/Patios/P1.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Patios/P2.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Patios/P3.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Patios/P4.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+		</lista>
+	</categoria>
+	
+	
+	<categoria>
+		<id>E</id>
+		<tema>5.- Comedor -Sala de Usos Múltiples</tema>
+		<lista>
+			<id1>3</id1>
+			<texto>Fotos</texto>
+			<foto>
+				<ruta>Imagenes/Multiple/M1.JPG</ruta>
+				<flota>si</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Multiple/M2.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+			
+			<foto>
+				<ruta>Imagenes/Multiple/M3.JPG</ruta>
+				<flota>no</flota>
+			</foto>
+		</lista>
+	</categoria>
+	
+	
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+</galeria>
+  
+

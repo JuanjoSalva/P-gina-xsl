@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Registro.xsl"?>
+<!DOCTYPE pagina SYSTEM "Registro.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>REGISTRO</titulo>
+	</cabecera>
+	
+	<cuerpo>
+		<nombre>Nombre:</nombre>
+		<apellido1>Primer Apellido:</apellido1>
+		<apellido2>Segundo Apellido:</apellido2>
+		<email>Email::</email>
+		<telefono>Teléfono:</telefono>
+		<sexo>Sexo:</sexo>
+		<usuario>Usuario:</usuario>
+		<contra>Contraseña</contra>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>
+		<Boton1>OK</Boton1>		
+		<Boton2>Borrar Datos</Boton2>		
+	</pie>
+</pagina>
+  

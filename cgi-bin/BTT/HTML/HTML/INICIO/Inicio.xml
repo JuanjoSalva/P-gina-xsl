@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Inicio.xsl"?>
+<!DOCTYPE pagina SYSTEM "Inicio.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>PEÑA APEDALES</titulo>
+	</cabecera>
+	
+	<cuerpo>
+		<texto>Este texto es de Bienvenida a al página</texto>
+		<marque> y este otro una marquesina</marque>
+	</cuerpo>
+	
+    <pie>		
+		<link1>Registrarme</link1>
+		<link2>Salir</link2>
+	</pie>
+</pagina>
+  

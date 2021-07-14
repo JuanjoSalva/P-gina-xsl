@@ -1,0 +1,14 @@
+<!ELEMENT pagina (encabez,cuerpo,pie)>
+	<!ELEMENT encabez (titulo, texto?)>
+			<!ELEMENT titulo (#PCDATA)>			
+			<!ELEMENT texto (#PCDATA)>
+	<!ELEMENT cuerpo (par*)>
+			<!ELEMENT par (titulo1, texto1?, imagen?, consejo?)>
+				<!ELEMENT titulo1 (#PCDATA)>
+				<!ELEMENT texto1 (#PCDATA)>
+				<!ELEMENT imagen (#PCDATA)>
+				<!ELEMENT consejo (#PCDATA)>
+	<!ELEMENT pie (link1, link2)>
+			<!ELEMENT link1 (#PCDATA)>
+			<!ELEMENT link2 (#PCDATA)>
+		

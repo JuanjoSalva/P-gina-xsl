@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "tarifas.xsl"?>
+<!DOCTYPE pagina SYSTEM "tarifas.dtd">
+
+<pagina>
+	<cabecera>
+		<titulo> TARIFAS </titulo>
+		<texto1>ESCUELA INFANTIL DUENDES</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		
+		
+
+ 
+
+		<elem>
+			<valor>  0 </valor>
+			<tarifa>				
+				Durante el curso 2012-2013 los alumnos se beneficiaran de la subvención de la Conselleria de Educación.
+			</tarifa>
+		</elem>
+		
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				Para información detallada acerca de los precios de cada alumno se puede poner en contacto con nosotros en el propio centro
+			</tarifa>
+		</elem>
+
+		<elem>
+			<valor>  1 </valor>
+			
+			<tarifa> 
+				o en la siguiente dirección de correo:informacion@duendesdesanvicente.es
+			</tarifa>
+		</elem>
+
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+</pagina>
+  

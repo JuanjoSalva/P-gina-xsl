@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Consejos.xsl"?>
+<!DOCTYPE pagina SYSTEM "Consejos.dtd">
+ 
+<pagina>
+  <encabez>
+    <titulo>CONSEJOS</titulo>
+	<texto>Pues eso extenderse sobre los recambios y esas cosas. Por ejemplo pongo esto que lo he copiado de páginas de internet: </texto>
+  </encabez>  
+  <cuerpo>
+	<par>
+		<titulo1>ESTIRAMIENTOS</titulo1>
+		<texto></texto>
+		<imagen1>Imagenes/Estiramientos.jpg</imagen1>
+		<imagen2></imagen2>
+		<consejo></consejo>
+	</par>
+  
+	<par>
+		<titulo1>FRENOS</titulo1>
+		<texto1>V-Brake o Disco:</texto1>
+		<imagen1>Imagenes/Recambios/vbrake.jpg</imagen1>
+		<imagen2>Imagenes/Recambios/disco.jpg</imagen2>
+		<consejo>El freno de disco siempre va frenar mejor referente a v-brake, ya que las condiciones del terreno o climatologicas no le afecta, el polvo, lodo o la lluvia, ya que el v-brake si depende de esto y el calentamiento del aro o rin, a quien no le habia pasado que cuando habia terreno con barro se trababa la llanta, con el disco no pasa esto (claro que tambien importa el espacio de la llanta en las barras y tirantes) Tienes un tacto mas nitido, en los hidraulicos, progresivo, sientes el punto exacto que bloqueas la llanta, que el v-brake dependias del calentamiento del rin o las condiciones reitero. Con el de disco puedes frenar casi entrando a la curva o en ultimo momento, y cuentas con mas potencia. Son mas pesados referente a los v-brake, pero ya hay frenos muy ligeros, pero cuestan, eso si.
+		Anécdota: En un viaje largo que hice un amigo y yo, pensamos que no agarraban los parches o no le parchabamos bien, pero resulto se que en las bajadas prolongadas y con el clima de los demonios a 42 grados el calentamiento del aro con los v-brake los parches se despegaban!!!</consejo>
+	</par>
+		
+	
+	<par>
+		<titulo1>HORQUILLAS </titulo1>
+		<texto1>V-Brake o Disco:</texto1>
+		<imagen1>Imagenes/Recambios/horquilla_inversa.jpg</imagen1>	
+		<imagen2>Imagenes/Recambios/horquilla_normal.jpg</imagen2>				
+		<consejo>Las horquillas invertidas tienen básicamente tienen 2 ventajas: 
+		Mayor rigidez (las botellas soportan mejor las torsiones que las barras). 
+		Menos masas y pesos no suspendidos (los pesos no suspendidos, es decir, que están "por debajo" de la suspensión, generan muchas inercias que añaden trabajo extra a las suspensiones y la única manera de solucionar ese problema es endurecer los tarados por encima de lo que el vehículo en cuestión necesita). 
+		Y tienen una única desventaja funcional, que pesan más que la no invertidas. Supongo que por eso no están muy extendidas entre las bicis, por que la desventaja de peso no se ve compensada por las mejoras funcionales. En una bici no se necesita tanta rigidez y como los componentes son bastante ligeros el problema de los pesos no suspendidos es mucho menor. Por lo tanto, dudo que se acaben imponiendo las invertidas, salvo que haya una gran revolución en materiales ligeros, pero claro, también se podrían aplicar a las convencionales y seguirían siendo más ligeras... </consejo>
+	</par>
+
+
+	<par>
+		<titulo1>CUADROS </titulo1>
+		<texto1>V-Brake o Disco:</texto1>
+		<imagen1>Imagenes/Recambios/cuadro1.jpg</imagen1>		
+		<imagen2>Imagenes/Recambios/cuadro2.jpg</imagen2>		
+		<consejo>Los defensores del uso de la fibra de carbono en todo tipo de cuadros, suelen utilizar argumentos que relacionan este material, con una magnitud física, la resistencia. Pero, ¿cuánto hay de cierto en esto?, y sobre todo,¿ la resistencia de la fibra de carbono, puede llegar a estandarizarse independientemente de la superficie en la que desarrollemos nuestra actividad? 
+		Una de las claves de esta cuestión, reside en el diseño de la estructura del cuadro de soporte. Sometidos cuadros con marco de cuatro ángulos a pruebas de resistencia, estos redujeron la misma en proporción directa al aumento de la superficie del mismo. Efectuadas estas mismas pruebas con marcos de estructura triangular, la capacidad de absorción, resistencia y maleabilidad de los mismos, aumento casi en un 20%, con respecto a los anteriores. Pero quizás lo más llamativo de esta comparativa, es que su gran antagonista, el aluminio, no obtiene ventajas comparativas derivadas de su, a priori, mayor resistencia al impacto directo sobre superficies irregulares, tanto de polvo/tierra, como de asfalto. La transmisión de vibraciones, con independencia de los neumáticos y radios utilizados, también obtuvo mejores resultados bajo el soporte de fibra de carbono. 
+		Cabe ahora preguntarse por un tema no menor, la duración en el tiempo, el envejecimiento relativo de este material. Nos referimos al envejecimiento relativo, cuando este se produce por causas ajenas a la intensidad y forma de utilización. En este caso, los parámetros peso, fuerza, superficie y sobrecarga, se obvian, para centrarnos en la duración natural de los materiales. La fibra de carbono, acusa, como no podía ser de otra manera, el paso del tiempo de una forma más intensa, las deformaciones producidas por el desgaste erosivo, aparecen de forma mucho más temprana, y su intensidad aumenta de forma exponencial. Argumentos que los detractores de la utilización de este polímero, esgrimen para desaconsejar su uso en la fabricación de componentes en las MTB. 
+		Valoremos entonces pros y contras: elevada resistencia mecánica, ligereza, elasticidad, baja densidad. En contraposición a sus defecto más importante, los elevados costes de producción, con el consiguiente valor añadido en el precio de venta final, y un dato estadístico, las diferencias en la proporción de ventas, favorables a la fibra de carbono hasta el momento, han experimentado un notable descenso últimamente, ¿modas, tendencias de futuro, caprichos?, en cualquier caso el debate sigue, y no tiene visos de disminuir. Pero hay algo que todo el mundo tiene bastante claro, el futuro pasa por los materiales biodegradables y en esta dirección, la industria de materiales y componentes se está gastando una pasta, el I+d+I para el mundo de las MTB. </consejo>
+	</par>
+
+	<par>
+		<titulo1>RUTAS  </titulo1>
+		<texto1></texto1>
+		<imagen1></imagen1>
+		<imagen2></imagen2>
+		<consejo>De la misma forma que antes de salir de viaje, es recomendable revisar el estado del coche, conviene realizar una completa revisión de los puntos principales de la bicicleta antes de realizar cualquiera de las rutas que te proponemos.
+		Estos puntos a controlar son el estado de las cubiertas, de las ruedas, frenos, sistema de iluminación (en caso de circular de noche) y holguras de los diferentes rodamientos (dirección, bujes...).
+		Así pues, antes de salir controla: 
+		Cada vez: 
+		Cierres de rueda, que deben estar correctamente apretados. Especialmente cuando hayas transportado la bici desmontando las ruedas. 
+		Presión de las ruedas. Te recomendamos que las regules según el itinerario que vayas a seguir. Unas ruedas muy infladas en carretera te permitirán rodar con menos rozamiento pero en caminos bacheados pueden provocar pérdida de adherencia y transmitir todos los baches al manillar. Sin embargo, con unas ruedas poco infladas aumenta el riesgo de reventón al impacto con una piedra y tendrás que realizar más esfuerzo. 
+		Tensión de los frenos y desgaste de zapatas o tacos. Comprueba que la rueda gira libremente sin rozar con las zapatas de freno. En caso de que toque puede ser porque la rueda esté descentrada o haya recibido un golpe. Intenta centrarla soltando los cierres rápidos o si ha recibido un golpe tendrás que arreglarlo tensando o destensando los radios con una llave especial. 
+
+		Periódicamente: 
+		FRENOS: Las zapatas se van gastando por lo que tendrás que ir tensando los frenos. Para ello, dispones de unos tensores roscados en cada una de las salidas de los mandos del freno en el manillar. Girando estos tensores al contrario de las agujas del reloj acercas más las zapatas a la llanta por lo que la bici frenará con más fuerza. 
+		CAMBIOS: Periódicamente debes comprobar los cambios, ya que pueden empezar a desincronizarse, saltando la cadena de un piñón a otro sin que tu intervengas. Para volver a ajustarlos, sigue los siguientes pasos: Sitúa la cadena en la corona más pequeña. Con la rueda pequeña en el aire, a la vez que pedaleas acciona el mando del cambio para que haga subir una corona. Si no lo hace fácilmente, acciona el tensor roscado (que se encuentra al final del cable que lleva al cambio) hacia la izquierda, de forma que te cueste menos y cambie enseguida. Si te has pasado te darás cuenta porque le costará volver al piñón pequeño, con lo que tendrás que girar el tensor hacia la derecha un poco. Comprueba ahora que la cadena pasa por todas las coronas. El cambio tiene además dos tornillos que sirven para ajustar el tope del cambio tanto por arriba como por abajo. Si se te suele salir la cadena por cualquiera de los dos lados, tendrás que ajustar el tope con uno de los dos tornillos, según por donde se salga.
+
+		LIMPIEZA: Es importante que mantengas la bicicleta limpia y en buenas condiciones de uso. Para limpiarla te recomendamos que utilices agua y jabón. Lo mejor es que después de cada salida y antes de ir a casa te pases por una gasolinera que tengan mangueras de agua a presión y le des un buen repaso, teniendo cuidado de no arrancar las pegatinas de la bici. 
+		ENGRASE: Después de la limpieza debes engrasar la bici para que no se oxiden las partes más importantes de la misma. Para ello debes aplicar la cantidad justa de grasa o aceite. Un exceso puede acarrear que la suciedad se quede pegada. Recomendamos que utilices aceite, ya que al ser menos viscoso, penetra mejor en los rodamientos y no acumula la suciedad. Engrasa la cadena, a la vez que pedaleas con la mano para que se distribuya correctamente. Echa aceite también en las articulaciones del cambio trasero y desviador (cambio delantero). No te olvides de lo pedales automáticos y los bujes de ambas ruedas. 
+		Cada cuatro o cinco salidas: 
+		Revisar el estado de las cubiertas por si tuviesen algún corte o desgaste excesivo en la zona de rodadura. 
+		Ajuste de los cambios, según la información que encontrarás en la sección CAMBIOS. 
+		Apretar los tornillos más importantes, como las fijaciones del sillín, manillar, bielas y frenos. 
+		Comprobar la holgura de los principales rodamientos: bujes de las ruedas, dirección, pedalier, pedales... sabiendo que no tienen que tener holgura ni ir agarrotados. 
+		Estado del cuadro: pintura, fisuras, golpes, especialmente en las zonas donde está soldado. 
+		Para ver rutas disponibles en la web entrar en la opción del Menú "Rutas" </consejo>
+	</par>
+	
+	<par>
+		<titulo1>POSICIONES  </titulo1>
+		<consejo>Cuando hablamos de la posición correcta para montar en bicicleta de montaña, también tendremos muy en cuenta la geometría de la bicicleta porque junto a una posicin incorrecta cambiará significativamente el comportamiento de nuestra bicicleta. No tendremos el mismo rendimiento con la posición del sillin retrasada, una potencia diferente a la adecuada o un manillar desajustados. Estos elementos mencionados son los principales para mantener una posición correcta de pedaleo, por tanto debemos cuidar que tengan un ajuste correcto para obtener los mejores resultados con nuestra bicicleta de montaña. De forma sencilla vamos a ver cómo puede afectar el ajuste de cada uno de estos elementos 
+		La Altura Correcta Del Sillín 
+		La altura correcta del sillin es fundamental para alcanzar la posición correcta en la bicicleta, deberá ser lo suficientemente alta que nos permita poner pie a tierra, teniendo en cuenta que es suficiente con tocar el suelo de puntillas, aunque la altura correcta del sillin la buscaremos en el ejercicio del pedaleo. Tendremos en cuenta también el límite de seguridad de la tija, ésta debe soportar sin problema nuestro peso pedaleando. Según el peso corporal y el fabricante de la tija, ésta tendrá un límite de altura, si nos es necesario sacar mucho la tija, debemos consultar las características para no estar por encima del límite de seguridad. La pierna no debe quedar totalmente extendida en el punto mas bajo del recorrido de la pedalada, se debe tener en cuenta para evitar posible molestias y problemas de rodilla. Una vez conseguida la posición correcta del sillin, y que corroboraremos con varias salidas en las que retocaremos esta altura hasta sentirnos cómodos pedaleando, es muy aconsejable hacer una marca horizontal sobre la tija para que si por alguna razón la quitamos, podamos volver de nuevo a tener la misma altura y posición correcta. 
+		La posición de avance del sillín:
+		Este es un ajuste que apenas se tiene en cuenta, pero que modificará significativamente la posición correcta de pedaleo sobre la bicicleta. Básicamente tendremos en cuenta que la posición retrasada del sillin nos vendrá muy bien para las bajadas, mal para las subidas y biceversa, al ser este ajuste el punto de apoyo del peso corporal sobre la bicicleta. Puesto que influye mucho cómo nos guste montar, tendremos que buscar la posición de avance del sillin en varias salidas por la zona que regularmente nos movemos hasta encontrar la que nos hará sentirnos mas cómodos, una vez que encuentres la posición correcta mas cómoda no la cambies. 
+		 La altura y longitud de la potencia:
+		Esta es otra de las piezas clave para conseguir una posición correcta y cómoda en la bicicleta, y como en los anteriores casos podemos decir que cambia mucho el comportamiento de la bicicleta en base a las medidas de la potencia. Una potencia corta resulta mucho más cómoda porque el cuerpo va más erguido, sin embargo es mas recomendable una potencia baja y larga para un uso más agresivo y eficiente sobre nuestra máquina a la hora de buscar la posición correcta en la bicicleta. Hay dos medidas: Inclinación y longitud. Unas medidas de compromiso podrían ser 0º-5º de inclinación y unos 120-130 mm de longitud. Una potencia Ahead de 5º puede invertirse para pasar a ser una de -5º. La operación se facilita con una potencia con tapa extraible, que nos evita el desmontar el manillar. 
+		La longitud de las bielas:
+		La longitud de las bielas en la mayoria de los casos no se le presta la atencion adecuada siendo de suma importancia cuando superamos una altura corporal de 1,70. Superando esta altura sacaremos mas partido con bielas de 175, e incluso si llegamos a superar el metro ochenta, nos iría muy bien montar bielas de 180 que las hay. La longitud de biela de la bicicleta, que supone la medida existente entre el centro del eje pedalier y el centro del eje del pedal, es uno de los primeros elementos a delimitar dentro de lo que supone el posicionamiento del ciclista sobre la bicicleta. La elección de la longitud de biela no es algo sencillo en lo que todo el mundo se ponga de acuerdo, sino que es motivo de controversia y se establecen en algunos casos una serie de pautas que no parecen tener ninguna base científica ni objetiva. No existe un consenso en cuanto a la medida de la biela, y tampoco existe un consenso en cuanto a qué parámetros o medidas del ciclista deben suponer la base o punto de partida para el cálcul o de la longitud de biela adecuada. 
+		La inclinacion de las manetas de freno:
+		Para evitar padecer problemas de muñeca es conveniente alinear correctamente las manetas de freno, para ello nos subimos a la bici en la postura habitual, extendemos los brazos y los dedos con las muñecas rígidas alineando el codo, la muñeca y la punta de los dedos, apoyándonos en el manillar deberíamos tocar las manetas de freno con los dedos. 
+		La inclinacion de los acoples del manillar:
+		Tambien evitaremos problemas de muñecas y hormigueos de las manos alineando los cuernos de manera que vayan lo mas paralelos al suelo. </consejo>
+	</par>
+	
+  </cuerpo>
+  
+  
+  <pie>
+    <link1>Volver al Principio</link1>
+	<link2>Inicio</link2>
+  </pie>
+</pagina>

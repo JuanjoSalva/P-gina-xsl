@@ -1,0 +1,11 @@
+<!ELEMENT pagina (titulo,elem*)>
+	<!ELEMENT  titulo  (#PCDATA)>
+	<!ELEMENT  elem  (valor,txt?,tarifa*)>
+		<!ELEMENT  valor  (#PCDATA)>
+		<!ELEMENT  txt  (#PCDATA)>
+			<!ELEMENT  tarifa  (concepto, precio, moneda)>
+				<!ELEMENT  concepto  (#PCDATA)>
+				<!ELEMENT  precio  (#PCDATA)>
+				<!ELEMENT  moneda  (#PCDATA)>
+		
+	

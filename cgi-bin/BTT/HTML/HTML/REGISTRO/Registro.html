@@ -1,0 +1,58 @@
+<HTML>
+	<HEAD>
+		<TITLE>	
+			REGISTRO
+		</TITLE>
+		<LINK REL= StyleSheet HREF = "../../../CSS/Hoja1.css" TYPE = "Text/css">
+		<Script type="text/javascript" src="../../../JSCRIPT/Resolucion.js"></Script>
+	</HEAD>
+
+	<BODY>
+		<H1 class = "titulo">
+			REGISTRO
+		</H1>
+		<FORM name = "registro" action = "mailto:mail@mail.com" method="post">
+			<DIV name = "Nom">
+				<B>	Nombre:	</B>
+				<INPUT TYPE = "TEXT" NAME = "Nombre" SIZE ="40" maxlength = "40">
+			</DIV>
+			
+			<DIV class = "parrafo" name = "Ape">					
+				<B> Primer Apellido: </B>
+					<INPUT TYPE = "TEXT" NAME = "Apellido1" SIZE ="40" maxlength = "40">
+				<B> Segundo Apellido: </B>
+					<INPUT TYPE = "TEXT" NAME = "Apellido2" SIZE ="40" maxlength = "40">
+			</DIV>
+			
+			<DIV class = "parrafo" name = "mail">					
+				<B>	Email:	</B>
+					<INPUT TYPE = "TEXT" NAME = "Email" SIZE ="100" maxlength = "100">
+			</DIV>
+			
+			<DIV class = "parrafo" name = "sex">
+				<B> Sexo: </B>
+						<FONT SIZE = "2"> Hombre </FONT>
+						<INPUT TYPE = "RADIO" NAME = "Sexo" Value ="Hombre">
+						<FONT SIZE = "2"> Mujer </FONT>
+						<INPUT TYPE = "RADIO" NAME = "Sexo" Value ="Mujer">
+			</DIV>	
+
+			<DIV class = "parrafo" name = "usu">
+				<B> Usuario: </B>
+					<INPUT TYPE = "TEXT" NAME = "Usu" SIZE ="12" maxlength = "12">
+				<B> Contraseña: </B>
+					<INPUT TYPE = "TEXT" NAME = "Contra" SIZE ="12" maxlength = "12">
+				<B> Validar Contraseña: </B>
+					<INPUT TYPE = "TEXT" NAME = "Contra1" SIZE ="12">
+			</DIV>
+			
+			<DIV class = "parrafo1">
+				<INPUT TYPE = "BUTTON" NAME = "Reg" VALUE = "OK" onclick = "registrar(document)">
+				
+				<BUTTON NAME = "BORRAR" TYPE = "RESET">
+					Borrar
+				</BUTTON>
+			</DIV>						
+		</FORM>
+	</BODY>
+</HTML>

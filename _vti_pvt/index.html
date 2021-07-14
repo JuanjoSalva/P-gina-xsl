@@ -1,0 +1,43 @@
+<HTML>
+	<HEAD>
+		<META HTTP-EQUIV="REFRESH" CONTENT="11;URL=principal.html"/>
+		<META HTTP-EQUIV="REFRESH" CONTENT="11;URL=principal2.html"/>
+		<META HTTP-EQUIV="REFRESH" CONTENT="11;URL=principal3.html"/>
+		<TITLE>
+			ESCUELA INFANTIL SAN VICENTE
+		</TITLE>
+		<Script type="text/javascript" src="JSCRIPT/Resolucion.js"/>
+	
+
+		<script type="text/javascript">
+			var res, ancho, alto;
+			
+			function tamanyo(){
+				ancho = screen.width;
+				alto=screen.height;
+				res = ancho+''+alto;
+				return res;
+			}
+		</script>
+	</HEAD>
+	
+	
+	<BODY onload = "barra_estado()">
+		
+		<Script type="text/javascript">
+			var res = tamanyo();
+			
+			switch (res){
+				case "1280960":					
+					location.replace("principal.html")
+					break
+				case "1024768":
+					location.replace("principal2.html")
+					break
+				case "800600":
+					location.replace("principal3.html")
+					break
+			}
+		</Script>
+	</BODY>
+</HTML>

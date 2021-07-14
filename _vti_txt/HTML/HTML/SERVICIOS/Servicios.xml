@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Servicios.xsl"?>
+<!DOCTYPE pagina SYSTEM "Servicios.dtd">
+ 
+<galeria>
+    <titulo>SERVICIOS DE LA ESCUELA</titulo>
+	<texto1>Pulse categoria y tema para ver descripción </texto1>
+	
+	<categoria>
+		<id>A</id>
+		<tema>S E R V I C I O S</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>PSICÓLOGO</texto>
+			<txt> En la escuela contamos con la colaboración de un Psicólogo el cual lleva un </txt>
+			<txt> seguimiento del desarrollo de los alumnos en su paso por la escuela. </txt>
+			<txt> Uno de los aspectos más importantes en estas edades es el desarrollo </txt>
+			<txt> psicoevolutivo. El psicólogo elaborará un informe para la entrada al cole a los</txt>
+			<txt> tres años y atenderá las inquietudes de los padres sobre la educación de </txt>
+			<txt> sus hijos.</txt>
+		</lista>
+		
+		<lista>
+			<id1>2</id1>
+			<texto>COMEDOR</texto>
+			<txt>Servicio de catering realizado por expertos en alimentación infantil.</txt>
+			<txt>Menús hechos por nutricionistas.</txt>
+			<txt>Recibido en el horario de comidas y en recipientes homologados para el transporte.</txt>
+			<txt>La infancia es un periodo especialmente vulnerable a la acción nociva de las carencias,</txt> 
+			<txt>excesos y errores en la alimentación y durante este periodo es cuando se establecen los </txt>
+			<txt> hábitos dietéticos que van a mantenerse a lo largo de la edad adulta.</txt>
+			<txt>Nuestros menús cubren todas las necesidades en los primeros años: nutritivas, calóricas, </txt>
+			<txt>proteínas, calcio, hierro, tiamina, riblogavina, niacina, retinol, calciferol,</txt>
+			<txt>ácido ascórbico.</txt>
+		</lista>
+	
+	
+		<lista>
+			<id1>3</id1>
+			<texto>HORARIOS DE GUARDERIA</texto>
+			<txt>-	Mañana: de 7:30 a 9:00</txt>
+			<txt>En este horario los niños podrán desayunar en la escuela.</txt>
+			<txt>-	Tarde: de 17:00 a 18:00</txt>
+		</lista>
+
+		<lista>
+			<id1>4</id1>
+			<texto>CHARLAS</texto>
+			<txt>Durante el curso se darán dos charlas de pediatras o psicólogos, con temas propuestos por </txt>
+			<txt>los padres, teniendo en cuenta las inquietudes de cada año.</txt>
+		</lista>
+		
+	</categoria>
+</galeria>

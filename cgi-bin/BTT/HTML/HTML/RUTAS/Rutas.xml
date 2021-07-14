@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Rutas.xsl"?>
+<!DOCTYPE pagina SYSTEM "Rutas.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>RUTAS</titulo>
+			<texto>Un poco de explicación de como funciona y rollito para pillar a la gente. Pues se muestran tres botones que corresponden a los diferentes grados de dificultad de las rutas que ofrecemos. Pulse el grado de dificultad del que desea consultar rutas y podrá ver las rutas disponibles.</texto>
+	</cabecera>
+	
+	<cuerpo>
+		<grado>
+			<nombre>DIFICULTAD FÁCIL</nombre>
+			<color>green</color>
+			<ruta>RutasFacil.xml</ruta>
+		</grado>
+		
+		<grado>
+			<nombre>DIFICULTAD MODERADA</nombre>
+			<color>green</color>
+			<ruta>RutasMedio.xml</ruta>
+		</grado>
+		
+		<grado>
+			<nombre>DIFICULTAD ALTA</nombre>
+			<color>RutasDificil.xml</color>
+			<ruta>RutasDificil.xml</ruta>
+		</grado>
+		
+		<grado>
+			<nombre>DIFICULTAD MUY ALTA</nombre>
+			<color>green</color>
+			<ruta>RutasMuyDificil.xml</ruta>
+		</grado>		
+		
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>		
+		<boton>Enviar Ruta</boton>
+	</pie>
+</pagina>
+  

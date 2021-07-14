@@ -1,0 +1,13 @@
+<!ELEMENT pagina (cabecera, cuerpo,pie)>
+	<!ELEMENT cabecera (titulo?)>
+		<!ELEMENT titulo (#PCDATA)>
+	<!ELEMENT cuerpo (rotulo?,calle?, localidad?,provincia)>
+		<!ELEMENT rotulo (#PCDATA)>
+		<!ELEMENT calle (#PCDATA)>
+		<!ELEMENT localidad (#PCDATA)>
+		<!ELEMENT provincia (#PCDATA)>
+	<!ELEMENT pie (correo*)>
+		<!ELEMENT correo (#PCDATA)>
+			
+		
+	

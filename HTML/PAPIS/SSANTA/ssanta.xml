@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "ssanta.xsl"?>
+<!DOCTYPE pagina SYSTEM "ssanta.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			TALLERES DE SEMANA SANTA
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					Para niños de 3 a 10 años.
+				</txt>
+			</texto>
+			
+			<texto>	
+				<img>
+					0
+				</img>
+				<txt>
+					Horario: El centro permanecerá abierto de 7:30 a 17:00 los días 10, 11, 12, 13, 18 y 20.
+				</txt>
+			</texto>
+			
+			<texto>	
+				<img>
+					1
+				</img>
+				<txt>
+					abril.png
+				</txt>			
+			</texto>	
+		</fila>
+		
+		<fila>
+						
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					Actividades:
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					*Durante estos días se realizan manualidades, talleres de cocina, juegos, rincón de disfraces con baile, cuentacuentos con marionetas, ayuda para deberes de primaria, inglés divertido, etc.
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					*Los precios son:					
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					- Mañana 9:00 a 13:00 -------------------------------------- 45 &#8364;
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					0
+				</img>
+				<txt>
+					- Día Completo 9:00 a 13:00 / 15:00 a 17:00 -------- 60 &#8364;
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					0
+				</img>	
+				<txt>
+					- Comedor 13:00 a 15:00 ---------------------------------- 35 &#8364;
+				</txt>
+			</texto>	
+			
+			<texto>
+				<img>
+					0
+				</img>	
+				<txt>
+					-Horario extra 7:30 a 9:00 ---------------------------------- 15 &#8364;
+				</txt>
+			</texto>
+			
+			<texto>
+				<img>
+					1
+				</img>
+				<txt>
+					conejo.png
+				</txt>
+			</texto>
+		</fila>
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

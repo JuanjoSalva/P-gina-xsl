@@ -1,0 +1,67 @@
+*LINKS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+/*Para seleccionar todos los link y quitarles el estilo y poneles color gris*/
+A:link{text-decoration:none; color:purple;}
+A:visited{text-decoration:none; color:purple;}
+A:hover {color:black; font-size:20px;}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*TITULOS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+/*Esto hace que la todas las cabecera H2 no tenga un espacio tan grande entre la H1 y quede mejor*/
+h1{align:center}
+h1+h2{margin-top:"-0.5em"}
+h1+h2{font-size:12}
+h1{color:white; font-size:18pt}
+h2{color:white; font-size:16pt}
+h3{color:white; font-size:12pt}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*IMAGENES*/
+/*Quitar cajas a las imagenes*/
+img{border:none;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*MARQUESINAS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+marquee{color:white}
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*CAJAS*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+div.flota{float:left}
+div.noflota{float:none;}
+div.margen{align-left:1cm}
+div.nomargen{margin-left:0cm;}
+div.margen1{align-left:4cm}
+div.parrafo {margin-top: 40px;margin-left:0cm;}
+div.parrafo1 {margin-top: 80px;margin-left:0cm;}
+div.parrafo2 {margin-top: 20px;margin-left: 0cm;}
+div.margenmenos1{margin-left:3cm;}
+div.margennegativo{margin-left:-4cm;}
+div.arriba{margin-top:0cm}
+div.borde {border: thick solid red}
+div.ColorBoton1{background-color:9999FF}
+div.ColorBoton2{background-color:CCCCFF}
+
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*CUERPO*/
+/*------------------------------------------------------------------------------------------------------------------------------------*/
+body.negro{background:black}
+html, body { height: 100%;}
+html.icono{background-image: url('../IMAGENES/FONDOS/Frames.gif'); background-attachment: fixed;}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+

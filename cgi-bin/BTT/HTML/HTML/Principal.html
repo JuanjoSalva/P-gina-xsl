@@ -1,0 +1,70 @@
+<HTML>
+	<!--BGSOUND SRC= "../../SONIDO/05-black_eyed_peas-lets_get_retarded.mp3"-->
+	 
+	<HEAD>
+		<TITLE>
+			RUTAS EN BICI BTT	
+		</TITLE>
+		<META HTTP-EQUIV= "Content-Type"CONTENT="text/html;charset= ISO-8859-1">
+
+		<!--script> 
+		function getWindowData(n,i){ 
+			var ifr=document.getElementById(i).contentWindow.document || document.getElementById(i).contentDocument; 
+			var widthViewport,heightViewport,xScroll,yScroll,widthTotal,heightTotal; 
+			if (typeof window.frames[n].innerWidth != 'undefined'){ 
+				widthViewport= window.frames[n].innerWidth; 
+				heightViewport= window.frames[n].innerHeight; 
+			}else if(typeof ifr.documentElement != 'undefined' && typeof ifr.documentElement.clientWidth !='undefined' && ifr.documentElement.clientWidth != 0){ 
+				widthViewport=ifr.documentElement.clientWidth; 
+				heightViewport=ifr.documentElement.clientHeight; 
+			}else{ 
+				widthViewport= ifr.getElementsByTagName('body')[0].clientWidth; 
+				heightViewport=ifr.getElementsByTagName('body')[0].clientHeight; 
+			} 
+			xScroll=window.frames[n].pageXOffset || (ifr.documentElement.scrollLeft+ifr.body.scrollLeft); 
+			yScroll=window.frames[n].pageYOffset || (ifr.documentElement.scrollTop+ifr.body.scrollTop); 
+			widthTotal=Math.max(ifr.documentElement.scrollWidth,ifr.body.scrollWidth,widthViewport); 
+			heightTotal=Math.max(ifr.documentElement.scrollHeight,ifr.body.scrollHeight,heightViewport); 
+			return [widthViewport,heightViewport,xScroll,yScroll,widthTotal,heightTotal]; 
+		}  
+		function resizeIframe(ID,NOMBRE){ 
+			document.getElementById(ID).height=null; 
+			document.getElementById(ID).width=null; 
+			window.location='#';//necesario para safari 
+			var m=getWindowData(NOMBRE,ID);  
+			document.getElementById(ID).height=m[5]; 
+			document.getElementById(ID).width=m[4]+22; 
+		}  
+		function addEvent(obj, evType, fn, useCapture){ 
+		  
+		 if (obj.addEventListener){ 
+			obj.addEventListener(evType, fn, useCapture); 
+			 
+		  } else if (obj.attachEvent){ 
+			obj.attachEvent("on"+evType, fn); 
+			
+		  } else { 
+		   obj['on'+evType]=fn; 
+		  } 
+		} 
+		window.onload=function(){ 
+			resizeIframe('Cuerpo','Cuerpo'); 
+			addEvent(document.getElementById('Cuerpo'), 'load', function(){resizeIframe('Cuerpo','Cuerpo');}, false); 
+		} 
+		</script-->
+		
+	</HEAD>
+
+	
+	<div class = "barra">
+			<iframe name = "Cabecera1" src="Cabecera1.html" width  = "100%" height = "8%" noresize scrolling = "no" frameborder = "0"></iframe>
+			<iframe name = "Cabecera" src="Cabecera.html" width  = "100%" height = "35%" noresize scrolling = "no" frameborder = "0"></iframe>
+			<iframe name = "Cuerpo" id= "Cuerpo" src="INICIO/Inicio.xml" width  = "100%"  height = "100%" noresize scrolling = "no" frameborder = "0"></iframe>			
+	</div>	
+	
+
+</HTML>
+
+
+
+		

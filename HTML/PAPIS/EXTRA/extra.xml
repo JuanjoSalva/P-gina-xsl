@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "extra.xsl"?>
+<!DOCTYPE pagina SYSTEM "extra.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			ACTIVIDADES EXTRAESCOLARES
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<texto>
+				<txt>
+					Este curso que ahora empieza, incorporamos un nuevo servicio de actividades extraescolares más especializado y atento a las necesidades de nuestras familias.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Nuestros niños dispondrán de precios especiales.
+				</txt>
+			</texto>				
+		</fila>	
+		
+		<fila>
+			<texto>
+				<txt>
+					En breve, proporcionaremos las nuevas actividades para para el curso 12/13. Estamos a vuestra disposición para cualquier consulta sobre estos asuntos.
+				</txt>
+			</texto>
+			
+			<texto>	
+				<txt>
+					Para hecernos llegar cualquier sugerencia sobre este tema, no dude en escribirnos a:
+					informacion@duendesdesanvicente.es
+				</txt>
+			</texto>
+		</fila>
+		
+		
+	
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

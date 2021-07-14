@@ -1,0 +1,35 @@
+<!ELEMENT pagina (cabecera, cuerpo, pie)>
+	<!ELEMENT  cabecera  (titulo, texto1)>
+			<!ELEMENT titulo (#PCDATA)>
+			<!ELEMENT texto1 (#PCDATA)>		
+	<!ELEMENT  cuerpo  (link, calle, cp, localidad?, provincia, telefono*, tabla, tabla1, tabla2, tabla3)>
+			<!ELEMENT link (#PCDATA)>
+			<!ELEMENT calle (#PCDATA)>
+			<!ELEMENT cp (#PCDATA)>
+			<!ELEMENT localidad (#PCDATA)>
+			<!ELEMENT provincia (#PCDATA)>
+			<!ELEMENT telefono (#PCDATA)>
+			<!ELEMENT tabla (cabecera, fila*)>
+				<!ELEMENT cabecera (#PCDATA)>
+				<!ELEMENT fila (celda*)>
+					<!ELEMENT celda (#PCDATA)>
+			<!ELEMENT tabla1 (celda)>
+				<!ELEMENT celda (#PCDATA)>
+			<!ELEMENT tabla2 (cabecera*, fila*)>
+				<!ELEMENT cabecera (#PCDATA)>
+				<!ELEMENT fila (celda*)>
+					<!ELEMENT celda (#PCDATA)>
+			<!ELEMENT tabla3 (celda)>
+				<!ELEMENT celda (#PCDATA)>		
+			<!ELEMENT descarga (imagen, ruta)>
+				<!ELEMENT imagen (#PCDATA)>
+				<!ELEMENT ruta (#PCDATA)>
+<!ELEMENT pie (link?, mail)>
+		<!ELEMENT link (ruta, texto)>
+			<!ELEMENT ruta (#PCDATA)>
+			<!ELEMENT texto (#PCDATA)>
+		<!ELEMENT mail (correo, asunto)>
+			<!ELEMENT correo (#PCDATA)>
+			<!ELEMENT asunto (#PCDATA)>
+		
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "proyecto.xsl"?>
+<!DOCTYPE pagina SYSTEM "proyecto.dtd">
+
+<pagina>
+	<cabecera>
+		<titulo> PROYECTO EDUCATIVO </titulo>
+		<texto1>ESCUELA INFANTIL DUENDES</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<texto>
+				<txt>
+					Nuestro proyecto educativo pretende ante todo que los niños empiecen el día con alegría, pretendemos conseguir
+					que los niños se sientan cómodos, seguros y felices en la escuela. La relación escuela - familia es muy importante
+					para nuestros objetivos y por ello queremos ser un centro cercano a las familias dando respuestas a inquietudes
+					que puedan surgir, así como haciendo participes a los padres en todas aquellas actividades que desarrollemos.
+				</txt>
+				
+			</texto>	
+			
+			
+			<texto>
+				<txt>  
+					Procuramos que en la escuela los niños adquieren las cualidades necesarias para actuar en su entorno, empezar a ser autónomos.
+				</txt>
+			</texto>
+		</fila>
+		
+		<fila>		
+			<texto>
+				<txt>  
+					Dentro de nuestro proyecto la estimulación temprana juega un papel muy importante.
+				</txt>
+			</texto>	
+			
+			
+			<texto>
+				<txt>Desde los primeros meses de vida trabajamos la estimulación de todos los sentidos mediante los masajes,
+				la psicomotricidad y los bits de inteligencia.</txt>
+			</texto>	
+		</fila>
+		
+		<fila>
+			<texto>
+				<txt>  
+					Todo nuestro trabajo esta basado en el aprendizaje mediante la experimentación y el juego.
+				</txt>
+			</texto>	
+		</fila>
+	</cuerpo>
+	
+
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+
+
+
+
+
+</pagina>
+  

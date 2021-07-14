@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Mapa.xsl"?>
+<!DOCTYPE pagina SYSTEM "Mapa.dtd">
+ 
+<pagina>
+	<titulo> MAPA </titulo>
+	<cuerpo>
+		<calle>San Vicente</calle>
+		<numero>26</numero>
+		<piso>Local</piso>
+		<cp>52354</cp>
+		<telefono>625875432</telefono>
+		<mapa>mapa.gif</mapa>
+	</cuerpo>
+	
+    
+</pagina>
+  

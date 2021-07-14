@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "cuentos.xsl"?>
+<!DOCTYPE pagina SYSTEM "cuentos.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			CUENTOS
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<img>
+				img/canta-ratoncito.jpg
+			</img>
+				
+			<titulo>
+				¡Canta, ratoncito!
+			</titulo>
+		
+			<autor>
+				ANTJE VOGEL
+			</autor>
+		
+			<descr>
+				Un ratoncito muy divertido que es una marioneta de peluche acompañará al niño por las páginas del cuento. Este libro es ideal tanto para los niños, que jugar con el libro, como para los padres, que podrán utilizarlo para llamar la atención de los más pequeños cuando comienzan a contarles cuentos.
+			</descr>
+		</fila>	
+		
+		<fila>
+			<img>
+					img/libro-fabuloso-mundo-colore.jpg
+			</img>
+			
+			<titulo>
+					El fabuloso libro de los colores
+			</titulo>
+			
+			<autor>
+					FIONA HAYES 
+			</autor>
+			
+			<descr>	
+				Mientras el niño se sorprende con las solapas y los elementos móviles del libro, el conejito marrón le va enseñando que el color del sol es amarillo, que los peces del lago son naranjas, las ranas verdes. 
+				En cada página el niño descubrirá un color nuevo y al final del libro verá un gran pop-up multicolor.
+			</descr>
+		</fila>
+		
+		<fila>
+			<img>
+				img/libro-fabuloso-mundo-numero.jpg
+			</img>
+			
+			<titulo>
+				El fabuloso libro de los números
+			</titulo>
+			
+			<autor>
+				FIONA HAYES
+			</autor>
+			
+			<descr>
+				El niño aprenderá a contar de una forma divertida siguiendo las aventuras de los animalitos del jardín. 
+				Las páginas del cuento tienen originales elementos móviles y solapas. Por ejemplo, si el niño levanta la gran hoja verde aparecen dos tímidas termitas, si le da vueltas a la flor las cuatro abejas giran sin parar, y si mueve el seto de flores encuentra seis mariquitas dormilonas. ¡Se lo pasará muy bien, seguro!
+			</descr>
+		</fila>
+		
+		
+		<fila>
+			<img>
+				img/pia-pollito.jpg
+			</img>
+			
+			<titulo>
+				¡Pía, pollito!
+			</titulo>
+			
+			<autor>
+				ANTJE VOGEL
+			</autor>
+			
+			<descr>			
+				Un pollito muy divertido que es una marioneta de peluche acompañará al niño por las páginas del cuento. Este libro es ideal tanto para los niños, que jugar con el libro, como para los padres, que podrán utilizarlo para llamar la atención de los más pequeños cuando comienzan a contarles cuentos.
+			</descr>
+		</fila>
+		
+		<fila>
+			<img>
+				img/quien-esconde-granja.jpg
+			</img>
+			
+			<titulo>
+				¿Quién se esconde en la granja?
+			</titulo>
+			
+			<autor>
+				DEBBIE TARBETT				
+			</autor>
+			
+			<descr>
+				Libro destinado a los más pequeños de la casa. Se divertirán con las páginas extensibles y aprenderán cómo son los animales de la granja.
+			</descr>
+		</fila>
+		
+		<fila>
+			<img>
+				img/quien-esconde-jardin.jpg				
+			</img>
+			
+			<titulo>
+				¿Quién se esconde en el jardín?
+			</titulo>
+			
+			<autor>
+				DEBBIE TARBETT
+			</autor>
+			
+			<descr>		
+				Libro destinado a los más pequeños de la casa. Se divertirán con las páginas extensibles y aprenderán como son los insectos y las plantas que pueden encontrar en el jardín
+			</descr>
+		</fila>
+		
+		<fila>
+			<img>
+				img/quien-esconde-mar.jpg
+			</img>
+			
+			<titulo>
+				¿Quien se esconde...? En el Mar
+			</titulo>
+			
+			<autor>
+				MELANIE MITCHELL
+			</autor>
+			
+			<descr>		
+				Libro que dará muchas sorpresas al niño. Tras cada una de las solapas de cada página del libro podremos descubrir quién se esconde en el mar. Tras cada solapa encontrarás un animal que seguro te encanta.
+			</descr>
+		</fila>
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

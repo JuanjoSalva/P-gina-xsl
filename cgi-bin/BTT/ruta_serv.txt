@@ -1,0 +1,3 @@
+c:\inetpub\wwwroot
+http://localhost/BTT/index.asp
+inetmgr.exe

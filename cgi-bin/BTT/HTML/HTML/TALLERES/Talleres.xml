@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Talleres.xsl"?>
+<!DOCTYPE pagina SYSTEM "Talleres.dtd">
+ 
+<pagina>
+  <encabez>
+    <titulo>TALLERES</titulo>
+  </encabez>  
+  <cuerpo>
+	
+	<texto>En Talleres pues hablar de talleres o de Apedales y poner la direccion o el contenido dentro de nuestro marco como este ejemplo:Pulsar</texto>
+		
+	<taller>
+		<nombre>APEDALES</nombre>
+		<direccion>http://www.apedales.es</direccion>
+	</taller>
+	
+	
+	<taller>
+		<nombre>OTERO</nombre>
+		<direccion>http://www.oterociclos.es</direccion>
+	</taller>
+	
+  </cuerpo>
+  
+  
+  <pie>
+    <link1>Volver al Principio</link1>
+	<link2>Inicio</link2>
+  </pie>
+</pagina>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "cabecera.xsl"?>
+<!DOCTYPE pagina SYSTEM "cabecera.dtd">
+ 
+
+ 
+<pagina>
+	<cuerpo>		
+		<foto1>../IMAGENES/enano1.jpg</foto1>
+		<texto1>ESCUELA INFANTIL</texto1>
+		<texto2> DUENDES</texto2>
+		<foto2>../IMAGENES/enano2.jpg</foto2>
+	</cuerpo>
+	
+    <pie>
+		<boton>
+			<texto>INICIO</texto>
+			<ruta>../HTML/ESCUELA/Escuela.xml</ruta>
+			<color>../IMAGENES/Botones/ESCTRELLA_ESCUELA11.png</color>
+		</boton>
+		
+		<boton>
+			<texto>SERVICIOS</texto>
+			<ruta>../HTML/SERVICIOS/Servicios.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_SERVICIOS11.gif</color>
+		</boton>
+		
+		<boton>
+			<texto>OBJETIVOS</texto>
+			<ruta>../HTML/OBJETIVOS/Objetivos.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_OBJETIVOS11.gif</color>
+		</boton>
+		
+		<boton>
+			<texto>DOCENCIA</texto>
+			<ruta>../HTML/HORARIOS/Horarios.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_HORARIO11.gif</color>
+		</boton>		
+		
+		<boton>
+			<texto>INSTALACIONES</texto>
+			<ruta>../HTML/INSTALACIONES/Instalaciones.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_INSTALACIONES11.gif</color>
+		</boton>		
+		
+		<boton>
+			<texto>MENU</texto>
+			<ruta>../HTML/TARIFAS/Tarifas.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_TARIFAS11.gif</color>
+		</boton>		
+		
+		<boton>
+			<texto>UBICACIÓN</texto>
+			<ruta>../HTML/PROYECTO/Proyecto.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_PROYECTO11.gif</color>
+		</boton>		
+		
+		<boton>
+			<texto>CONTACTAR</texto>
+			<ruta>../HTML/CONTACTAR/contacta.xml</ruta>
+			<color>../IMAGENES/Botones/ESTRELLA_CONTACTAR11.gif</color>
+		</boton>
+		
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+	</pie>
+</pagina>
+  

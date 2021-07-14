@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "juegos.xsl"?>
+<!DOCTYPE pagina SYSTEM "juegos.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			JUEGOS
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<titulo>
+				A chocar!!
+			</titulo>
+			
+			<edad>
+				10 meses a 1 año
+			</edad>				
+			
+			<descr>
+				 El niño estará sentado y le daremos dos tapas de potito, una en cada mano. Las primeras veces la educadora le ayudará a chocarlas moviéndole los brazos, pero luego lo hará el niño/a solo.				
+			</descr>				
+		</fila>	
+		
+			
+		<fila>
+			<titulo>
+				Croquetas
+			</titulo>
+			
+			<edad>
+				5 a 6 Meses
+			</edad>				
+			
+			<descr>
+				 Tumbamos al niño boca arriba y suavemente lo giramos hacia un lado para dejarle boca abajo, como si fuera una croqueta. Repetimos la acción al contrario, con cuidado le giramos hacia el otro lado.
+			</descr>				
+		</fila>	
+		
+		<fila>
+			<titulo>
+				A gatear!!!
+			</titulo>
+			
+			<edad>
+				8 meses a 1 año
+			</edad>				
+			
+			<descr>
+				Ponemos al niño en posición de gateo, y delante de él accionamos un coche motorizado, o rodamos una pelota. Le diremos que vaya a cogerlo gateando.
+			</descr>				
+		</fila>	
+
+		<fila>
+			<titulo>
+				Puente Elevadizo
+			</titulo>
+			
+			<edad>
+				10 a 15 meses
+			</edad>				
+			
+			<descr>
+				Tumbamos al niño boca arriba y la educadora, de rodillas frente a ál, le cogerá las piernas y las moverá hacia arriba y hacia abajo como un puente levadizo. También hará lo mismo con los pies y los girará
+			</descr>				
+		</fila>	
+
+		<fila>
+			<titulo>
+				Aserrín - aserrán
+			</titulo>
+			
+			<edad>
+				3 meses a 2 años
+			</edad>				
+			
+			<descr>
+				El educador se sienta en una silla y pone en sus rodillas al niño de manera que los dos se miren cara a cara. El educador agarra al niño de los brazos o manos y lo balancea para adelante y para atrás mientras canta esta canción: "aserrín aserrán, las campanas de San Juan que unas vienen y otras van, aserrín aserrán"
+			</descr>				
+		</fila>			
+		
+		<fila>
+			<titulo>
+				Mis Huellas
+			</titulo>
+			
+			<edad>
+				2 a 3 años
+			</edad>				
+			
+			<descr>
+				El niño moja la yema de un dedo en un tarro con témpera y lo estampa en un papel continuo. A continuación le pintaremos toda la palma de la mano y hará lo mismo, la estampará y verá la huella. Luego lo realizaremos con los pies y posteriormente les limpiaremos.
+			</descr>				
+		</fila>	
+		
+		<fila>
+			<titulo>
+				Collares
+			</titulo>
+			
+			<edad>
+				18 meses a 2 años
+			</edad>				
+			
+			<descr>
+				Los niños están sentados en las sillas y encima de la mesa tienen un trozo de lana y un puñado de macarrones para cada uno. Fijándose en la educadora tendrán que hacer un collar metiendo los macarrones en el hilo de lana. Previamente las educadoras habrán puesto en un extremo del hilo un poquito de plastelina para que no se escapen los macarrones.
+			</descr>				
+		</fila>	
+		
+		<fila>
+			<titulo>
+				Pinturas
+			</titulo>
+			
+			<edad>
+				18 meses a 3 años
+			</edad>				
+			
+			<descr>
+				Les entregamos a los niños un folio a cada uno y una bandeja de pinturas en cada mesa. Los niños tendrán que pintar libremente
+			</descr>				
+		</fila>	
+	</cuerpo>
+	
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

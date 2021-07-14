@@ -1,0 +1,16 @@
+<!ELEMENT pagina (titulo,cuerpo,pie)>
+	<!ELEMENT titulo (#PCDATA)>
+	<!ELEMENT cuerpo (calle,numero,piso,cp,telefono,foto)>
+	<!ELEMENT calle (#PCDATA)>
+	<!ELEMENT numero (#PCDATA)>
+	<!ELEMENT piso (#PCDATA)>
+	<!ELEMENT cp (#PCDATA)>
+	<!ELEMENT telefono (#PCDATA)>
+	<!ELEMENT mapa (#PCDATA)>
+		
+	<!ELEMENT pie (boton*)>
+		<!ELEMENT boton (texto, ruta)>
+			<!ELEMENT texto (#PCDATA)>
+			<!ELEMENT ruta (#PCDATA)>
+		
+	

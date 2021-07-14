@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "TipoRuta.xsl"?>
+<!DOCTYPE pagina SYSTEM "TipoRuta.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>RUTAS DIFICULTAD ALTA </titulo>
+			<texto>Si se queire un poco de explicación, sino se puede borrar y dejar en blanco para un futuro.</texto>
+	</cabecera>
+	
+	<cuerpo>
+		<ruta>
+			<nombre>CAMINO SANTIAGO PRIMITIVO </nombre>
+			<mapa>Imagen/Dificil/Mapa/SantiagoPrimitivo.jpg</mapa>
+			<texto1>Cerca de Arcos, Asturias (España)</texto1>
+			<imagen>Imagen/Dificil/Desnivel/SantiagoPrimitivo.jpg</imagen>
+			<grado>Dificil</grado>
+			<distancia>317,35 km</distancia>
+			<altitud_min>40 metros</altitud_min>
+			<altitud_max>1.1225 metros</altitud_max>
+			<des_sub>6.794 metros</des_sub>
+			<des_baj>6.801 metros</des_baj>
+		</ruta>
+		
+		<ruta>
+			<nombre>SEVILLA LA NUEVA-CUERDA DE LA PARADA </nombre>
+			<mapa>Imagen/Dificil/Mapa/CuerdaLaParada.bmp</mapa>
+			<texto1>cerca de Sevilla La Nueva, Comunidad de Madrid (España) </texto1>
+			<imagen>Imagen/Dificil/Desnivel/CuerdaLaParada.jpg</imagen>
+			<grado>Difícil</grado>
+			<distancia>74,41 km</distancia>
+			<altitud_min>498 metros</altitud_min>
+			<altitud_max>986 metros</altitud_max>
+			<des_sub>1.328 metros</des_sub>
+			<des_baj>1.368 metros</des_baj>
+		</ruta>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>		
+	</pie>
+	
+</pagina>
+  

@@ -1,0 +1,25 @@
+<!ELEMENT pagina (cabecera,cuerpo,pie)>
+	<!ELEMENT cabecera (titulo)>
+		<!ELEMENT titulo (#PCDATA)>
+		
+		
+	<!ELEMENT cuerpo (Nombre, grado, distancia, alt_min, alt_max, des_sub, des_baj, map, ima)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT grado (#PCDATA)>
+		<!ELEMENT distancia (#PCDATA)>
+		<!ELEMENT alt_min (#PCDATA)>
+		<!ELEMENT alt_max (#PCDATA)>
+		<!ELEMENT des_sub (#PCDATA)>
+		<!ELEMENT des_baj (#PCDATA)>
+		<!ELEMENT map (#PCDATA)>
+		<!ELEMENT ima (#PCDATA)>
+		
+	<!ELEMENT pie (link1,link2,link3, boton1, boton2)>
+		<!ELEMENT link1 (#PCDATA)>
+		<!ELEMENT link2 (#PCDATA)>
+		<!ELEMENT link3 (#PCDATA)>
+		<!ELEMENT boton1 (#PCDATA)>
+		<!ELEMENT boton2 (#PCDATA)>
+		
+	
+	

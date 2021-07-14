@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "EnvioRuta.xsl"?>
+<!DOCTYPE pagina SYSTEM "EnvioRuta.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>ENVIAR RUTA</titulo>
+	</cabecera>
+	
+	<cuerpo>
+		<nombre>Nombre de Ruta:</nombre>
+		<grado>Grado de dificultad:</grado>
+		<distancia>Distancia recorrida:</distancia>
+		<alt_min>Altitud mín:</alt_min>
+		<alt_max>Altitud max:</alt_max>
+		<des_sub>Desnivel acum. subiendo:</des_sub>
+		<des_baj>Desnivel acum. bajando:</des_baj>
+		<mapa>Seleccione imágen mapa</mapa>
+		<imagen>Seleccione imágen desnivel</imagen>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Volver a Rutas</link2>
+		<link3>Inicio</link3>
+		<Boton1>Enviar Datos</Boton1>		
+		<Boton2>Borrar Datos</Boton2>		
+	</pie>
+</pagina>
+  

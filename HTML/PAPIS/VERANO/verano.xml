@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "verano.xsl"?>
+<!DOCTYPE pagina SYSTEM "verano.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			VERANO
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<tabla>
+			<cabecera>
+				El centro pone a su disposición la escuela de verano donde se realizarán:
+			</cabecera>
+			
+			<fila>
+				<celda>
+					*Actividades al aire libre (juegos de agua, piscina). 
+				</celda>
+				
+				<celda>
+					*Manualidades y talleres.
+				</celda>
+			</fila>
+			
+			<fila>
+				<celda>
+					*Refuerzo y ayuda de las actividades escolares.
+				</celda>
+				
+				<celda>
+					*Sesión de cine.
+				</celda>
+			</fila>
+			
+			<fila>
+				<celda>
+					*Marionetas.
+				</celda>
+				
+				<celda>
+					*Karaoke.
+				</celda>
+			</fila>
+			
+		</tabla>	
+				
+		<tabla1>		
+			<celda>
+				El centro permanecerá abierto de 7:30 a 15:30
+			</celda>
+		</tabla1>
+		
+		<tabla2>
+			<cabecera>
+				
+			</cabecera>
+			
+			<cabecera>
+				Mes
+			</cabecera>
+			
+			<cabecera>
+				Quincena
+			</cabecera>
+			
+			<fila>
+				<celda>
+					Mañana (de 9:00 a 13:00)
+				</celda>
+				
+				<celda>
+					180 euros
+				</celda>
+				
+				<celda>
+					100 euros
+				</celda>
+			</fila>
+			
+			<fila>
+				<celda>
+					Comedor (de 13:00 a 15:30) 
+				</celda>
+				
+				<celda>
+					100 euros
+				</celda>
+				
+				<celda>
+					60 euros
+				</celda>
+			</fila>
+			
+			<fila>
+				<celda>
+					H. extra (de 7:30 a 9:00)
+				</celda>
+				
+				<celda>
+					50 euros
+				</celda>
+				
+				<celda>
+					30 euros
+				</celda>
+			</fila>
+		</tabla2>
+		
+		<tabla3>
+			<celda>
+				Para los hermanos la mañana será de 150 euros el mes y 80 euros la quincena
+			</celda>
+		</tabla3>
+		
+		
+		<descarga>
+			<imagen>
+				../../../IMAGENES/images/icono.ico
+			</imagen>
+			
+			<ruta>
+				../../../DOC/VERANO12.pdf
+			</ruta>
+		</descarga>	
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

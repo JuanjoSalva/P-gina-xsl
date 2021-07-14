@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "admision.xsl"?>
+<!DOCTYPE pagina SYSTEM "admision.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			ADMISION
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+			
+		<fila>
+			<texto>
+				<txt>
+					Todos los que esteís interesados podeís escribir al correo: informacion@duendesdesanvicente.com para pedirnos información o solicitar una cita y ver las instalaciones. Os responderemos lo lo ante sposible. Si lo prefieres también podeís llamar al los teléfonos 679473537
+ o 636381442  y estaremos encantados de atenderte.
+				</txt>
+			</texto>
+		</fila>
+		
+		<fila>
+			<texto>
+				<txt>
+					Si ya estás del todo convencido, descarga la solicitud de matrícula y traerla cumplementada y firmada a la escuela.
+				</txt>
+			</texto>			
+		</fila>	
+		
+		<descarga>
+			<imagen>
+				../../IMAGENES/images/icono.ico
+			</imagen>
+			
+			<ruta>
+				../../DOC/MATRICULA_CURSO_12.pdf
+			</ruta>
+		</descarga>
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

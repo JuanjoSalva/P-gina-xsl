@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Imagenes.xsl"?>
+<!DOCTYPE pagina SYSTEM "Imagenes.dtd">
+ 
+<galeria>
+    <titulo>IMAGENES</titulo>
+	<texto1>Pulse categoria y tema para ver las fotos de la galeria </texto1>
+	<categoria>
+		<id>A</id>
+		<tema>Carrera Iglesuela</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Partida</texto>
+			<foto>Imagenes/imagen5.jpg</foto>
+			<foto>Imagenes/imagen6.jpg</foto>			
+		</lista>
+	
+		<lista>
+			<id1>2</id1>
+			<texto>LLegada a la antenas</texto>
+			<foto>Imagenes/imagen1.jpg</foto>
+			<foto>Imagenes/imagen2.jpg</foto>
+			<foto>Imagenes/imagen3.jpg</foto>
+			<foto>Imagenes/imagen4.jpg</foto>	
+		</lista>
+	</categoria>
+	
+	<categoria>
+		<id>B</id>
+		<tema>Próximo Carrera</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Fotos de paisajes</texto>
+			<foto>Imagenes/imagen7.jpg</foto>
+			<foto>Imagenes/imagen8.jpg</foto>				
+		</lista>
+	</categoria>
+	
+    <categoria>
+		<id>C</id>
+		<tema>Videos</tema>
+		<lista>
+			<id1>1</id1>
+			<texto>Videos de broma</texto>
+			<foto>VIDEOS/accidente1.wmv</foto>
+			<foto>VIDEOS/accidente1.wmv</foto>				
+			<foto>VIDEOS/accidente1.wmv</foto>
+			<foto>VIDEOS/accidente1.wmv</foto>				
+		</lista>
+	</categoria>
+</galeria>
+  

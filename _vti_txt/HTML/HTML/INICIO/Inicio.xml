@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Inicio.xsl"?>
+<!DOCTYPE pagina SYSTEM "Inicio.dtd">
+
+<pagina>
+	<cuerpo>
+	
+		<foto1>
+			imagen/duendes1.gif
+		</foto1>
+	
+		<texto1>
+			ESCUELA INFANTIL
+		</texto1>
+		
+		<texto2>
+			SAN VICENTE
+		</texto2>
+		
+		<foto2>
+			imagen/duendes.jpg
+		</foto2>
+		
+		
+	</cuerpo>
+</pagina>
+  

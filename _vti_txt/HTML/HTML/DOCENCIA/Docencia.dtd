@@ -1,0 +1,14 @@
+<!ELEMENT pagina (titulo, cuerpo, pie)>
+	<!ELEMENT titulo (#PCDATA)>
+	<!ELEMENT cuerpo (texto1?, texto2?, punto*, texto3?, texto4?)>
+		<!ELEMENT texto1 (#PCDATA)>
+		<!ELEMENT texto2 (#PCDATA)>
+		<!ELEMENT punto (#PCDATA)>
+		<!ELEMENT texto3 (#PCDATA)>
+		<!ELEMENT texto4 (#PCDATA)>
+	<!ELEMENT pie (boton*)>
+		<!ELEMENT boton (texto, ruta)>
+			<!ELEMENT texto (#PCDATA)>
+			<!ELEMENT ruta (#PCDATA)>
+		
+	

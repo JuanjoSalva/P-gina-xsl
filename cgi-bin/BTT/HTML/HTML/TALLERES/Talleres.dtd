@@ -1,0 +1,12 @@
+<!ELEMENT pagina (encabez,cuerpo,pie)>
+	<!ELEMENT encabez (titulo)>
+			<!ELEMENT titulo (#PCDATA)>			
+	<!ELEMENT cuerpo (texto, taller*)>
+			<!ELEMENT texto (#PCDATA)>
+			<!ELEMENT taller (nombre, direccion)>
+				<!ELEMENT nombre (#PCDATA)>
+				<!ELEMENT direccion (#PCDATA)>
+	<!ELEMENT pie (link1, link2)>
+			<!ELEMENT link1 (#PCDATA)>
+			<!ELEMENT link2 (#PCDATA)>
+		

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "TipoRuta.xsl"?>
+<!DOCTYPE pagina SYSTEM "TipoRuta.dtd">
+ 
+<pagina>
+	<cabecera>
+			<titulo>RUTAS DIFICULTAD MUY ALTA </titulo>
+			<texto>Si se queire un poco de explicación, sino se puede borrar y dejar en blanco para un futuro.</texto>
+	</cabecera>
+	
+	<cuerpo>
+		<ruta>
+			<nombre>CASTILLONROY </nombre>
+			<mapa>Imagen/MuyDificil/Mapa/Castillonroy.bmp</mapa>
+			<texto1>cerca de Castellonroi / Castillonroy, Aragón (España)  </texto1>
+			<imagen>Imagen/MuyDificil/Desnivel/Castillonroy.jpg</imagen>
+			<grado>Muy Alta</grado>
+			<distancia>51,4 km</distancia>
+			<altitud_min>335 metros</altitud_min>
+			<altitud_max>1.082 metros</altitud_max>
+			<des_sub>1.402 metros</des_sub>
+			<des_baj>1.349 metros</des_baj>
+		</ruta>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>		
+	</pie>
+	
+</pagina>
+  

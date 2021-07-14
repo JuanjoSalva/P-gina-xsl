@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "pelis.xsl"?>
+<!DOCTYPE pagina SYSTEM "pelis.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			PELÍCULAS
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<img>
+				img/suenoivan.jpg
+			</img>
+			
+			<titulo>
+				El sueño de Iván
+			</titulo>
+			
+			<genero>
+				Acción
+			</genero>	
+
+			<descr>
+				Un niño (Óscar Casas, hermano de Mario) se enfrenta a famosos futbolistas en un juego benéfico. Comedia con Antonio Resines, Ernesto Alterio y Fernando Tejero
+			</descr>
+		</fila>	
+		
+		<fila>
+			<img>
+				img/hf2.jpg
+			</img>
+			
+			<titulo>
+				Happy Feet 2 
+			</titulo>
+			
+			<genero>	
+				Animación
+			</genero>
+			
+			<descr>
+				Siguen las andanzas del pingüino Mumble y su hijo Erik en la secuela en 3D del largo animado ganador de un Oscar en 2006.
+			</descr>
+		</fila>
+		
+		<fila>
+			<img>
+				img/agu.jpg
+			</img>
+			
+			<titulo>
+				Agugutamtam
+			</titulo>
+			
+			<genero>
+				Talleres
+			</genero>
+			
+			<descr>
+				Educación musical para bebés
+			</descr>
+		</fila>
+		
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

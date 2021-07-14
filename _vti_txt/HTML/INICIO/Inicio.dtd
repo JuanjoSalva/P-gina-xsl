@@ -1,0 +1,9 @@
+<!ELEMENT pagina (cuerpo)>
+<!ELEMENT  cuerpo  (foto1?, texto1?, texto2?, foto2?)>
+<!ELEMENT foto1 (#PCDATA)>
+<!ELEMENT texto1 (#PCDATA)>
+<!ELEMENT texto2 (#PCDATA)>
+<!ELEMENT foto2 (#PCDATA)>
+
+		
+	

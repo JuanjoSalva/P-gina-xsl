@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "medicina.xsl"?>
+<!DOCTYPE pagina SYSTEM "medicina.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			MEDICINA
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+	
+		<fila>
+			<titulo>	
+				ALERGIA A LOS ÁCAROS
+			</titulo>
+	
+			<texto>	
+				<txt>
+					Los ácaros son unos de los principales responsables de las alergias en los niños. Te explicamos cómo eliminarlos en tu casa.
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Las medidas principales son: ventilación y limpieza:
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Ventilar a diario y durante bastante tiempo la casa, especialmente, las habitaciones. Los ácaros proliferan en ambientes cálidos y húmedos. Por lo tanto, la temperatura de las habitaciones deberá situarse alrededor de los 20 ºC. Mientras que la humedad no deberá superar el 40-50%.
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Aspirar semanalmente la casa y las superficies de tela, como colchones o sofás, con un aspirador (preferiblemente, que funcione con agua y que disponga de filtros "hepa", que pueden eliminar mejor el polvo, los ácaros muertos y sus excrementos)
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Durante la limpieza, mantener la ventana abierta y procurar que el niño no esté presente.
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Utilizar un purificador de aire, con tecnología iónica, ayuda a garantizar un ambiente sano en casa. Libre de impurezas y de ácaros.
+				</txt>
+			</texto>
+		
+			<texto>	
+				<txt>
+					Hay que tener presente que incluso los ácaros muertos pueden desencadenar alergia.
+				</txt>
+			</texto>
+		</fila>
+ 			
+		<fila>
+			<titulo>
+				HERIDAS
+			</titulo>	
+
+			<texto>
+				<txt>
+					Las heridas del niño pueden ser de distinto tipo. En función de la causa que las haya provocado, requerirán un tratamiento diferente.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>				
+					1. Heridas por corte. Son cortes limpios producidos por una lámina. La pérdida de sangre puede ser grave y peligrosa, especialmente si se hiere una arteria.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					2. Heridas por abrasión o contusión. Los bordes de este tipo de herida son irregulares. De la herida sale un suero, un líquido transparente del color de la paja.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Si el corte es superficial, no está sucio y no contiene cuerpos extraños, será suficiente con desinfectarlo con una gasa humedecida en alguna sustancia desinfectante y dejar que se seque al aire libre, sin cubrirlo con gasas ni tiritas, a menos que se trate de una zona que se puede ensuciar fácilmente, como una mano o un pie. En este caso, se aconseja tapar la herida con una tirita o una gasa estéril (grasa, para evitar que se pegue a la herida), sin aplicar necesariamente desinfectantes antisépticos. Si, por el contrario, la herida está sucia, es necesario lavarla bien con agua corriente, intentando retirar delicadamente la suciedad con una gasa empapada en alguna sustancia desinfectante. Usar un jabón puede resultar de utilidad, mejor si es líquido, pues penetra mejor en la herida. 
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Cuándo dirigirse al pediatra. La intervención del pediatra puede ser útil en los siguientes casos:
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La hemorragia no se detiene después de estar 10 minutos comprimiendo la herida.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- El corte es muy profundo y se necesitan algunos puntos de sutura.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- En la herida hay suciedad, que no se consigue eliminar bien.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- El niño no está protegido contra el tétanos.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida parece estar infectada.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida no se cura pasados 10 días.
+				</txt>
+			</texto>
+				
+			<texto>
+				<txt>
+					3. Por otro lado, existen las heridas por punta: en general, son pequeñas, pero profundas, como la herida en un pie producida por un clavo o la herida en un ojo producida por un lápiz. A menudo, en este tipo de herida, no sale sangre. Este hecho, unido a la rapidez con la que suele cerrarse el agujero, hace que tales heridas se infecten con cierta facilidad; también el tétanos, si el niño no está bien vacunado, es una posible complicación. En este caso, la parte herida debe sumergirse en agua caliente y jabón líquido durante cerca de un cuarto de hora para favorecer la circulación sanguínea y la limpieza de la herida.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Cuándo dirigirse al pediatra
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida ha sido causada por un objeto que está sucio o la piel en el momento de la herida estaba sucia.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- El objeto que ha causado la herida ha atravesado la suela del zapato.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- En la herida quedan fragmentos de suciedad o la punta del objeto.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida se ha producido en la cabeza, en tórax, el abdomen o en una articulación.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida necesita puntos de sutura.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- La herida parece haberse infectado.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- Al niño no se le ha puesto la vacuna antitetánica. 
+				</txt>
+			</texto>
+		</fila>
+		
+		<fila>
+			<titulo>
+				ABUNDANTE AIRES
+			</titulo>
+			
+			<texto>
+				<txt>
+					Cuando el niño tiene muchos aires, la barriga se le hincha y el dolor, a veces, puede ser muy intenso. ¿Cuáles son las causas y cómo aliviar este trastorno?
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Los pediatras utilizan diferentes términos:
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					1. Aerofagia: tiene lugar cuando el niño come o bebe muy deprisa, o bien cuando está muy angustiado y no consigue eliminar el aire que ha inspirado.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					2. Meteorismo: este término se utiliza para indicar la presencia excesiva de gas en el intestino, que causa dolor. Puede deberse al aire tragado, es decir, a la aerofagia, o bien a la fermentación de los alimentos que se han ingerido.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					3. Flatulencia: se produce cuando el organismo intenta liberarse del aire acumulado, debido a la aerofagia o al meteorismo. Se produce de dos modos: el aire se puede eliminar a través de la boca, con el eructo, o bien a través del ano, con la expulsión, a veces ruidosa, de gases malolientes.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					El síntoma principal de este trastorno es la barriga hinchada y el dolor que, a veces, puede resultar muy intenso. Contrariamente a lo que se suele pensar, no es la cantidad de aire lo que causa dolor, sino más bien la sensibilidad del intestino que, en algunas personas, es más acentuada que en otras.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					En la mayor parte de los casos, el gas se forma en la zona del intestino grueso, después de la acción de las bacterias que normalmente están allí presentes. Cuando se ingiere el alimento, además, durante la digestión, los aminoácidos y las proteínas, al escindirse, forman hidrógeno, anhídrido carbónico y metano. Algunas veces, además, la flatulencia deriva de la intolerancia a algunos alimentos, como la leche. Reduciendo la cantidad de leche, o eliminándola de la alimentación del niño, siempre bajo las indicaciones del pediatra, la situación mejora.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					La emisión de gas suele ser una situación embarazosa pero, desde el punto de vista médico, no es preocupante. Una vez se sabe la causa de que el niño tenga aire en la barriga, se debe actuar en función de cada caso: enseñar al niño a comer lentamente, eliminar los alimentos que producen gas y beber después de las comidas, y ofrecer al niño el chupete sólo durante el sueño.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Cuándo dirigirse al pediatra
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- Cuando el niño suele tener muchos aires a menudo y no se identifica la causa.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					- Cuando el niño pierde peso.
+				</txt>
+			</texto>
+			
+		</fila>
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

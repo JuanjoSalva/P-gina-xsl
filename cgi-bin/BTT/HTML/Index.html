@@ -1,0 +1,41 @@
+<HTML>
+	<HEAD>
+	<!--META HTTP-EQUIV="REFRESH" CONTENT="11;URL=HTML/Principal.html"/-->
+    <!--META HTTP-EQUIV="REFRESH" CONTENT="11;URL=HTML/Principal1.html"/-->
+    <!--META HTTP-EQUIV="REFRESH" CONTENT="11;URL=HTML/Principal2.html"/-->
+		<TITLE>
+			INICIO
+		</TITLE>
+		<Script type="text/javascript" src="../JSCRIPT/Resolucion.js"></Script>
+		
+	</HEAD>
+
+	<script type="text/javascript">
+		var  ancho, alto;
+		
+		function tamanyo(){
+			ancho = screen.width;
+			alto=screen.height;
+			res = ancho+''+alto;
+			return res;
+		}
+	</script>
+	
+	<BODY onload = "barra_estado();maximizar(windows)">
+		<script type="text/javascript">
+      var res = tamanyo();
+
+      switch (res){
+	  case "1280960":
+		location.replace("HTML/Principal.html");
+		break;
+      case "1024768":
+		location.replace("HTML/Principal1.html");
+		break;
+      case "800600":
+		location.replace("HTML/Principal2.html");
+		break;
+      }
+    </script>
+	</BODY>
+</HTML>

@@ -1,0 +1,23 @@
+<!ELEMENT pagina (cabecera,cuerpo,pie)>
+	<!ELEMENT cabecera (titulo)>
+		<!ELEMENT titulo (#PCDATA)>
+		
+		
+	<!ELEMENT cuerpo (nombre, apellido1, apellido2, email, telefono, sexo, usuario, contra)>
+		<!ELEMENT nombre (#PCDATA)>
+		<!ELEMENT apellido1 (#PCDATA)>
+		<!ELEMENT apellido2 (#PCDATA)>
+		<!ELEMENT email (#PCDATA)>
+		<!ELEMENT telefono (#PCDATA)>
+		<!ELEMENT sexo (#PCDATA)>
+		<!ELEMENT usuario (#PCDATA)>
+		<!ELEMENT contra (#PCDATA)>		
+		
+	<!ELEMENT pie (link1, link2, boton1, boton2)>
+		<!ELEMENT link1 (#PCDATA)>
+		<!ELEMENT link2 (#PCDATA)>
+		<!ELEMENT boton1 (#PCDATA)>
+		<!ELEMENT boton2 (#PCDATA)>
+		
+	
+	

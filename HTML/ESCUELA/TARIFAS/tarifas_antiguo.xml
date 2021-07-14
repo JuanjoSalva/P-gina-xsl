@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "tarifas.xsl"?>
+<!DOCTYPE pagina SYSTEM "tarifas.dtd">
+
+<pagina>
+	<cabecera>
+		<titulo> TARIFAS </titulo>
+		<texto1>ESCUELA INFANTIL DUENDES</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.png
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<elem>
+			<valor>  0 </valor>
+			<tarifa>
+				<concepto> Escolaridad </concepto>
+				<precio> 220 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+		
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Comedor </concepto>
+				<precio> 100 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+
+		<elem>
+			<valor>  1 </valor>
+			<txt> Horarios de guardería: </txt>
+			<tarifa> 
+				<concepto> Mañana: de 7:30 a 9:00 </concepto>
+				<precio> 50 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+			<tarifa> 
+				<concepto> Tarde: de 17:00 a 18:00</concepto>
+				<precio> 30 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Matricula </concepto>
+				<precio> 100 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+		
+		<elem>
+			<valor>  1 </valor>
+			<txt> Material escolar: </txt>
+			<tarifa> 
+				<concepto> Septiembre </concepto>
+				<precio> 40 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+			<tarifa> 
+				<concepto> Marzo </concepto>
+				<precio> 40 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+		</elem>
+
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Servicio psicopedagógico </concepto>
+				<precio> 50 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+</pagina>
+  

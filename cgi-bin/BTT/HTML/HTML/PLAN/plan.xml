@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="plan.xsl"?>
+<!DOCTYPE arbol SYSTEM "plan.dtd">
+<arbol>
+  
+  <ruta>
+    <fecha_prev>12/06/2011</fecha_prev>
+	<fecha_inscrip>06/09/2010</fecha_inscrip>
+    <nombre>Camino de Santiago</nombre>
+    <pais>España</pais>
+    <ciudad>Santiago</ciudad>
+    <localidad>Santiago</localidad>
+    <dificultad>Alta</dificultad>
+    <distancia>402.42 Km</distancia>
+    <altitud_min>500 metros</altitud_min>
+    <altitud_max>1.825 metros</altitud_max>
+    <desnivel_acum_subiendo> 800 metros</desnivel_acum_subiendo>
+    <desnivel_acum_bajando> 1200 metros</desnivel_acum_bajando>
+    <mapa>Mapa/SantiagoPrimitivo.jpg </mapa> <!-- Mapa de localización, googlemaps -->
+    <imagen>Imagen/SantiagoPrimitivo.jpg </imagen>  <!-- Imagen de desnivel -->
+  </ruta>
+  
+</arbol>
+
+

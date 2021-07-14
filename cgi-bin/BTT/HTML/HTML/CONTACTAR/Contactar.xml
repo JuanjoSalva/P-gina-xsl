@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Contactar.xsl"?>
+<!DOCTYPE pagina SYSTEM "Contactar.dtd">
+ 
+<pagina>
+    
+	
+	<cabecera>
+			<titulo>CONTACTO</titulo>
+	</cabecera>
+	
+	<cuerpo>
+		<nombre>Raúl Pérez</nombre>
+		<telefono>645852434</telefono>
+		<correo>Raul@gmail.com</correo>
+	</cuerpo>
+	
+    <pie>
+		<link1>Volver al Principio</link1>
+		<link2>Inicio</link2>
+		<boton>Contactar</boton>
+	</pie>
+</pagina>
+  

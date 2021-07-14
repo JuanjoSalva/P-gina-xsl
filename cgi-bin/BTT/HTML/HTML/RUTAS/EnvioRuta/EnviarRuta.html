@@ -1,0 +1,149 @@
+<HTML>
+	<HEAD>
+		<TITLE>
+			RUTAS
+		</TITLE>
+		<LINK REL= StyleSheet HREF = "../../../CSS/Hoja1.css" TYPE = "Text/css">
+		<Script type="text/javascript" src="../../../JSCRIPT/Resolucion.js"></Script>
+	</HEAD>
+
+	<BODY class = "amarillo" onload = "modificar()">
+		<H1 class = "titulo">
+			ENVIAR RUTA
+		</H1>
+		<FORM method="post" action = "mailto:puesto7@minas.upm.es">
+			<TABLE BORDER = "1">
+				<TR>
+					<TR>
+						<TD WIDTH = "40%">
+							Nombre de Ruta:
+						</TD>
+
+						<TD WIDTH = "60%">							
+							<INPUT TYPE = "TEXT" NAME = "Nombre" SIZE ="30"/>
+						</TD>
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Grado de dificultad:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<SELECT>
+								<OPTION> Dificultad Fácil </OPTION>
+								<OPTION> Dificultad Moderada </OPTION>
+								<OPTION> Dificultad Alta </OPTION>
+								<OPTION> Dificultad Muy Alta </OPTION>
+							<SELECT>
+							Escoja una opción
+						</TD>						
+					</TR>
+					
+
+					<TR>
+						<TD WIDTH = "40%">
+							Distancia recorrida:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "TEXT" NAME = "Distancia" SIZE ="5"/> km
+						</TD>						
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Altitud min:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "Min" NAME = "CP" SIZE ="6"/> m
+						</TD>						
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Altitud max:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "Max" NAME = "Provincia" SIZE ="6"/> m
+						</TD>						
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Desnivel acum. subiendo: 
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "TEXT" NAME = "Subiendo" SIZE ="59"/> m
+						</TD>						
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Desnivel acum. bajando:
+
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "TEXT" NAME = "Bajando" SIZE ="59"/> m
+						</TD>					
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Seleccione imágen mapa:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "FILE" NAME = "Mapa"/>
+						</TD>					
+					</TR>
+
+					<TR>
+						<TD WIDTH = "40%">
+							Seleccione imágen desnivel:
+						</TD>
+
+						<TD WIDTH = "60%">
+							<INPUT TYPE = "FILE" NAME = "Desnivel"/>
+						</TD>					
+					</TR>
+
+
+					<TR>
+						<TD WIDTH = "60%">
+							<BUTTON NAME = "ENVIAR" TYPE = "SUBMIT">
+								<B>  <FONT SIZE = "2"> Enviar Datos </FONT> </B>
+							</BUTTON>
+				
+							<BUTTON NAME = "BORRAR" TYPE = "RESET">
+								<B>  <FONT SIZE = "2"> Borradar los Datos </FONT> </B>							
+								</BUTTON>
+						</TD>						
+					</TR>
+				</TR>
+			<TABLE>
+		</FORM>	
+		<TABLE class = "Volver">
+			<TR>	
+				<TD WIDTH = "17%">
+					<A HREF= "Rutas.Html"> 
+						<FONT SIZE = "4"> 
+							Rutas
+						</FONT>
+					</A>
+				</TD>
+				<TD WIDTH = "17%">
+					<A TARGET = "Cuerpo" HREF = "../NOSOTROS/Nosotros.html"> 
+						<FONT SIZE = "4">
+							Inicio
+						</FONT>
+					</A>
+				</TD>
+			</TR>
+		</TABLE>
+	</BODY>
+</HTML>

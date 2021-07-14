@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "servicios.xsl"?>
+<!DOCTYPE pagina SYSTEM "servicios.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>SERVICIOS</titulo>
+		<texto1> ESCUELA INFANTIL DUENDES</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<serv>
+				<col>1</col>
+				<texto>PSICÓLOGO</texto>
+				<txt> En la escuela contamos con la colaboración de un Psicólogo el cual lleva un </txt>
+				<txt>seguimiento del desarrollo de los alumnos en su paso por la escuela. </txt>
+				<txt> Uno de los aspectos más importantes en estas edades es el desarrollo </txt>
+				<txt>psicoevolutivo. El psicólogo elaborará un informe para la entrada al cole a los</txt>
+				<txt>tres años y atenderá las inquietudes de los padres sobre la educación de</txt>
+				<txt>sus hijos.</txt>
+			</serv>
+			
+			<serv>
+				<col>2</col>
+				<texto>HORARIOS DE GUARDERIA</texto>
+				<txt>Mañana: de 7:30 a 9:00 (En este horario los niños podrán desayunar en la escuela.)</txt>
+				<txt>Tarde: de 17:00 a 18:00</txt>
+			</serv>
+		</fila>
+		
+		<fila>
+			<serv>
+				<col>3</col>
+				<texto>COMEDOR</texto>
+				<txt>Servicio de catering realizado por expertos en alimentación infantil.</txt>
+				<txt>Menús hechos por nutricionistas.</txt>
+				<txt>Recibido en el horario de comidas y en recipientes homologados para el transporte.</txt>
+				<txt>La infancia es un periodo especialmente vulnerable a la acción nociva de las carencias,</txt>
+				<txt>excesos y errores en la alimentación y durante este periodo es cuando se establecen los</txt>
+				<txt>hábitos dietéticos que van a mantenerse a lo largo de la edad adulta.</txt>
+				<txt>Nuestros menús cubren todas las necesidades en los primeros años: nutritivas, calóricas,</txt>
+				<txt>proteínas, calcio, hierro, tiamina, riblogavina, niacina, retinol, calciferol,</txt>
+				<txt>ácido ascórbico.</txt>
+			</serv>
+			
+			<serv>
+				<col></col>
+				<texto>CHARLAS</texto>
+				<txt>Durante el curso se darán dos charlas de pediatras o psicólogos, con temas propuestos por</txt>
+				<txt>los padres, teniendo en cuenta las inquietudes de cada año.</txt>
+			</serv>
+		</fila>
+	</cuerpo>
+	
+	
+	<pie>		
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+</pagina>

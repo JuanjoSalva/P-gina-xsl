@@ -1,0 +1,25 @@
+<SCRIPT LANGUAGE=VBScript RUNAT=Server>
+SUB Session_OnStart
+  Session("Dinero")=0
+  Session("Productos") =0
+END SUB
+</SCRIPT>
+
+<SCRIPT LANGUAGE=VBScript RUNAT=Server>
+SUB Application_OnStart
+  Dim Auxiliar(100)
+  Application("Opiniones")=Auxiliar
+  Application("Numero")=0
+END SUB
+</SCRIPT>
+
+<SCRIPT LANGUAGE=VBScript RUNAT=Server>
+SUB Application_OnEnd
+  Dim Auxiliar(9),i
+  for i=0 to 9
+    Auxiliar(i)=""
+  next
+  Application("Opiniones")=Auxiliar
+  Application("Numero")=-1
+END SUB
+</SCRIPT>

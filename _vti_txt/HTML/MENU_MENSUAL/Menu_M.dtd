@@ -1,0 +1,12 @@
+<!ELEMENT pagina (titulo,cuerpo,pie)>
+	<!ELEMENT titulo (#PCDATA)>
+	<!ELEMENT cuerpo (texto,foto)>		
+		<!ELEMENT texto (#PCDATA)>
+		<!ELEMENT foto (#PCDATA)>
+	<!ELEMENT pie (menu*)>
+		<!ELEMENT menu (dia, comida, merienda)>
+			<!ELEMENT dia (#PCDATA)>
+			<!ELEMENT comida (#PCDATA)>
+			<!ELEMENT merienda (#PCDATA)>
+		
+	

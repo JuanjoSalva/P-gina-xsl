@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Escuela.xsl"?>
+<!DOCTYPE pagina SYSTEM "Escuela.dtd">
+ 
+<pagina>
+	<cuerpo>
+		<titulo>
+			LA ESCUELA
+		</titulo>
+		
+		<texto>
+			<txt>
+				La E.I. Duendes está ubicada en San Vicente. Contamos con 3 aulas, una para cada nivel: de 0 a 1 año, de 1 a 2 años y de 2 a 3 años. 				
+			</txt>
+			
+			<txt>
+				Con 130 m  de patios diferenciados por edades, comedor( sala de usos múltiples), baños adaptados para ellos.			
+			</txt>
+		</texto>
+		
+		<texto>
+			<txt>
+				En todas las aulas tenemos lavabos adaptados para que ellos mismos puedan lavarse  y preocuparse por su higiene.
+			</txt>
+		</texto>
+		
+		<texto>
+			<txt>
+				Todo pensado para su seguridad, enchufes altos, manillas de las puertas altas, cierres de seguridad en las ventanas, 
+			</txt>
+			
+			<txt>
+				protecciones de dedos en puertas, columnas acolchadas, paredes redondeadas.
+			</txt>
+		</texto>
+		
+		<texto>
+			<txt>
+				Toda la escuela esta climatizada.
+			</txt>
+		</texto>
+		
+		<texto>
+			<txt1>
+				Todas las instalaciones creadas según normativa del 2008 de Conselleria de Educación de la Comunidad Valenciana.
+			</txt1>
+		</texto>
+		
+		<foto>
+			<path>
+				IMAGENES/imagen1.jpg
+			</path>
+			
+			<descr>
+				Solicita aquí tu beca escolar.
+			</descr>
+			
+			<ruta>
+				http://www.becas.com
+			</ruta>
+		</foto>
+
+		<foto>
+			<path>
+				IMAGENES/imagen2.jpg
+			</path>
+			
+			<descr>
+				Admitimos como forma de pago los cheques Sodexo E-Pass.
+			</descr>
+			
+			<ruta>
+				http://www.tusodexo.es/guarderia/	
+			</ruta>
+		</foto>
+
+		
+	</cuerpo>
+	
+    
+</pagina>
+  

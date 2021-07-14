@@ -1,0 +1,7 @@
+<!ELEMENT foro (tema*)>
+<!ELEMENT tema (descripcion, fecha, usuario, mensaje*)>
+
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT usuario (#PCDATA)>
+<!ELEMENT mensaje (#PCDATA)>

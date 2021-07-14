@@ -1,0 +1,6 @@
+<!ELEMENT pagina (titulo,texto)>
+	<!ELEMENT  titulo  (#PCDATA)>
+	<!ELEMENT  texto  (txt*)>
+		<!ELEMENT  txt  (#PCDATA)>
+		
+	

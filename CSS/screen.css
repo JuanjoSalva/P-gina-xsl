@@ -1,0 +1,57 @@
+﻿* { padding: 0; margin: 0; z-index: 1; } 
+body { font: .74em Tahoma, Verdana, Sans-Serif, Arial; background-color:#9CAB3F}
+
+
+
+h1 { font: normal 3.4em "MV Boli", Helvetica, Arial; color: #0B0B0B }
+h2 { font: normal 1.8em "Trebuchet MS", Helvetica, Arial; color: #dfdfdf; margin: 0 0 1.3em; }
+h3 { font: normal 1.4em "Trebuchet MS", Helvetica, Arial; margin: 0 0 1.25em; }
+h4 { font: normal 1.2em "Trebuchet MS", Helvetica, Arial; color: #dfdfdf; margin: 0 0 0.5em; }
+h2.tit{font: normal 1.8em "Trebuchet MS", Helvetica, Arial; color: #0B0B0B; margin: 0 0 1.3em; }
+p { margin: 0 0 0.95em; line-height: 1.6em; }
+
+
+a { outline: 0; color: #304D6F; text-decoration: none; }
+li { list-style: none; }
+li a, img { display: block; }
+img { outline: 0; border: 0; }
+
+
+#header{background-color:#9CAB3F; text-align:center;}
+#fondo{ position:absolute; width: 1em; margin-top:0%; background:url(../IMAGENES/Fondos/duendes.jpg) no-repeat; height: 50%;z-index:1;}
+#wrapper { width: 83%; margin: auto;z-index:0; background-color:white;}
+.clr { clear: both; }
+#logo { float: left; padding: 2em 0.95em;}
+
+	#logo h1 a { color: #0B0B0B; }
+		#logo h1 a span { color: #0B0B0B; }
+#menu { height: 5em; padding: 0.5em 0 0 0.5em;}
+
+	#menu li { float: left; font-size: 1.5em; text-transform: uppercase;}
+		#menu li a { color: #0B0B0B;}
+			#menu li a.current, #menu li a:hover { color: #0B0B0B; }			
+	
+	#pitch { clear: both; background: url(../IMAGENES/images/pitch1.jpg) no-repeat; height: 24em; width:48%; margin: 0 0 2em; padding: 0 22.50em 0 1.87em; }
+		#pitch h1 { font-size: 2.4em; color: #304D6F; margin: 0 0 1em; }
+		#pitch em { font-size: 1.3em; font-weight: bold; line-height: 1.6em; }
+
+.content{border: 2px outset  #0B0B0B; color:#000000; font-weight:bold;}
+.link { background: #304D6F; color: #fff; padding: 0.5em 0.5em; font-size: 0.9em; }
+
+#main { padding: 1.95em; }
+.col { float: left; width: 0.5em; margin: 0 2.2em 0.95em 0; }
+	.col.last { float: right; margin-right: 0; }
+	.case img { float: left; clear: left; margin: 0 1% 1% 0; background: #121212; padding: 0.188em; }
+	.short { padding: 0 0 1% 0;}
+	.case a, .article a { color: #ddd; font-weight: bold; }
+	.date { font-size: .84em; margin: 0 0 1%; }
+
+#footer { clear: both; padding: 1.250em 1.250em 0.625em; width:97.5%; font-size: .9em; background:#CCCC99;}
+	/*#footer a { margin: 0 0.625em 0 0; border-bottom: 0.063em dotted #444; padding: 0 0 1%; }*/
+	
+	/*
+	#footer a { margin: 0 0.625em 0 0; border-bottom: 0.063em dotted #444; padding: 0 0 0.625em; }
+	#links { float: right; }
+		#links a { margin: 0 0 0 1%; }
+	#footer p { margin: 0 0 1%; }*/
+

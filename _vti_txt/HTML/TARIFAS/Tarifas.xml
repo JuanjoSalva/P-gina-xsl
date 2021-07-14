@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Tarifas.xsl"?>
+<!DOCTYPE pagina SYSTEM "Tarifas.dtd">
+
+<pagina>
+	<titulo> TARIFAS </titulo>
+	
+		<elem>
+			<valor>  0 </valor>
+			<tarifa>
+				<concepto> Escolaridad </concepto>
+				<precio> 220 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+		
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Comedor </concepto>
+				<precio> 100 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+
+		<elem>
+			<valor>  1 </valor>
+			<txt> Horarios de guardería: </txt>
+			<tarifa> 
+				<concepto> Mañana: de 7:30 a 9:00 </concepto>
+				<precio> 50 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+			<tarifa> 
+				<concepto> Tarde: de 17:00 a 18:00</concepto>
+				<precio> 30 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Matricula </concepto>
+				<precio> 100 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+		
+		<elem>
+			<valor>  1 </valor>
+			<txt> Material escolar: </txt>
+			<tarifa> 
+				<concepto> Septiembre </concepto>
+				<precio> 40 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+			<tarifa> 
+				<concepto> Marzo </concepto>
+				<precio> 40 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+			
+		</elem>
+
+		<elem>
+			<valor>  0 </valor>
+			<tarifa> 
+				<concepto> Servicio psicopedagógico </concepto>
+				<precio> 50 </precio>
+				<moneda> euros </moneda>
+			</tarifa>
+		</elem>
+	
+</pagina>
+  

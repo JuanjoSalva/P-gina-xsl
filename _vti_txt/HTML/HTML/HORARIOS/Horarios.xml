@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Horarios.xsl"?>
+<!DOCTYPE pagina SYSTEM "Horarios.dtd">
+
+<pagina>
+	<titulo> HORARIO </titulo>
+	<texto>
+		<txt> Nuestra escuela abre sus puertas a las 7:30 de la mañana hasta las 18:00 de la tarde. </txt>
+	</texto>
+	
+	<texto>
+		<txt> El horario lectivo es de 9:00 de la mañana a 17:00 de la tarde. </txt>
+	</texto>
+	
+	<texto>
+		<txt> El periodo lectivo propiamente dicho comienza el 1 de septiembre hasta finales de Junio. </txt>
+		<txt> Durante este tiempo se desarrolla el programa de enseñanza diseñado para cada curso e incluye </txt>
+		<txt> el periodo de adaptación. </txt>
+	</texto>
+	
+	<texto>
+		<txt> Durante el verano se organizan una serie de actividades lúdico-instructivas para aquellos </txt>
+		<txt> niños/as que permanecen en la escuela u otros que solo asisten para estas fechas. </txt>
+	</texto>	
+</pagina>
+  

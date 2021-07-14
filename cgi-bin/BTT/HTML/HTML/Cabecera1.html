@@ -1,0 +1,37 @@
+<!--%@LANGUAGE = VBScript%-->
+<HTML>
+	<HEAD>
+		<TITLE>
+			CABECERA1
+		</TITLE>
+		<LINK REL= StyleSheet HREF = "../../CSS/Hoja1.css" TYPE = "Text/css">
+		<Script type="text/javascript" src="../../JSCRIPT/Resolucion.js"></Script>
+		
+	</HEAD>
+
+	<BODY class = "negro">
+		<DIV class = "flota margen2medio" valign = "top">
+			<form name = "registro" action = "mailto:mail@mail.com" method="post">
+				<DIV class = "flota" valign = "top">
+					<B>Usuario:</B>
+					<input type = "text" name ="Usu" size = "12" maxlength = "12"> 
+				</DIV>
+				
+				<DIV  class = "flota margen" valign = "top">
+					<B>Contraseña:</B>
+					<input type = "password" name ="Contra" size = "12" maxlength = "12">
+				</DIV>
+				
+				<DIV class = "flota margenmedio">					
+					<INPUT TYPE = "button" NAME ="Valida" VALUE = "OK" onclick = "validar(document)" class = "boton2"/>
+				</DIV>
+				
+				<DIV class = "flota margen link1" valign = "top">
+					<A TARGET = "Cuerpo" HREF = "REGISTRO/Registro.xml"> 
+						<B> <font color = "yellow"> Nuevo Registro </font></B>
+					</A>
+				</DIV>
+			</form>
+		</DIV>
+	</BODY>
+</HTML>

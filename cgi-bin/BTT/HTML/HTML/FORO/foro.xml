@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="tema.xsl"?>
+<!DOCTYPE foro SYSTEM "foro.dtd">
+<foro>
+
+  <tema>
+    <descripcion> Ruta Camino de Santiago </descripcion>
+    <fecha> 01/05/2011 </fecha>
+    <usuario> Juanjo </usuario>
+    <mensaje> Creo que no estoy preparado para esto </mensaje>
+    <mensaje> VEnga que tu puedes </mensaje>
+  </tema>
+  <tema>
+    <descripcion> ¿Es buena la bici? </descripcion>
+    <fecha> 01/05/2001 </fecha>
+    <usuario> Juanjo </usuario>
+    <mensaje> No sé si es buena o mala </mensaje>
+    <mensaje> Es una pasada </mensaje>
+  </tema>
+  <tema>
+    <descripcion> Amigo invisible </descripcion>
+    <fecha> 02/05/2011 </fecha>
+    <usuario> Juanjo </usuario>
+    <mensaje> No estoy seguro de qué regalar </mensaje>
+    <mensaje> No regales nada </mensaje>
+    <mensaje> O ragala un juego de toallas </mensaje>
+  </tema>
+</foro>

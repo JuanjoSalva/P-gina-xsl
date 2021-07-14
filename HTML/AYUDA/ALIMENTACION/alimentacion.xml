@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "alimentacion.xsl"?>
+<!DOCTYPE pagina SYSTEM "alimentacion.dtd">
+ 
+<pagina>
+	<cabecera>
+		<titulo>
+			ALIMENTACIÓN
+		</titulo>
+		
+		<texto1>
+			ESCUELA INFANTIL DUENDES
+		</texto1>
+	</cabecera>
+	
+	<cuerpo>
+		<link>
+			../../../IMAGENES/images/mapa.html
+		</link>
+		
+		<calle>
+			C/ LA HUERTA Nº 7 BAJO
+		</calle>
+		
+		<cp>
+			03690
+		</cp>
+		
+		<localidad>
+			SAN VICENTE DEL RASPEIG
+		</localidad>
+		
+		<provincia>
+			ALICANTE
+		</provincia>
+		
+		<telefono>
+			679473537
+		</telefono>
+		
+		<telefono>
+			636381442
+		</telefono>
+		
+		<telefono>
+			965049772
+		</telefono>
+		
+		<fila>
+			<texto>
+				<txt>
+					Una buena alimentación durante los primeros años puede repercutir en su estado de salud, su forma de: comunicación, pensar y racionalizar, socializarse, adaptarse a nuevos ambientes y personas y, sobre todo, en su rendimiento escolar. 
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					Por ello, una dieta saludable es vital para que su crecimiento sea óptimo. Es, además una etapa de la vida en la que hay que proporcionar mucha energía a los niños, puesto que es uno de los momentos en los que su ritmo de crecimiento es vertiginoso.
+				</txt>
+			</texto>				
+		</fila>	
+		
+		<fila>
+			<texto>
+				<txt>
+					Es recomendable no abusar de las grasas y comer al menos, cinco veces al día frutas y verduras. Una buena nutrición y la práctica de ejercicio es la primera línea de defensa contra numerosas enfermedades infantiles que pueden dejar secuela, en los niños, de por vida. La ingesta de nutrientes es distinta en función de las distintas etapas de su evolución.
+				</txt>
+			</texto>
+			
+			<texto>
+				<txt>
+					No proponemos ninguna tabla de alimentos y/o nutrientes por etapa porque cada uno es un caso particular y no pretendemos en ningún caso minar la autoridad del pediatra. Lo que sí haremos es proporcionar alguna ayuda.
+				</txt>
+			</texto>				
+		</fila>	
+		
+		<fila>
+			<texto>
+				<txt>
+					Ideas Para que los niños coman
+				</txt>
+			</texto>
+		</fila>
+		
+		<fila>
+			<texto>
+				<txt>
+					3 Pasos: 
+				</txt>
+			</texto>
+		</fila>
+	
+		<fila>
+			<texto>
+				<txt>
+					1.	Llevar a tus hijos a la compra e ir enseñándoles que productos son saludables y cuáles no, mostrando las cualidades buenas de los primeros: colores vivos y aromas de las verduras, los peces que viven en el mar o en el río. , y por contra las aburridas cualidades de los segundos.
+				</txt>
+			</texto>				
+		</fila>	
+			
+		<fila>
+			<texto>
+				<txt>
+					2.	 Tener a tus hijos en la cocina mientras cocinas, que lo asocien a algo divertido, mientras lavas las verduras. Puedes contar cuentos a la vez sobre el tomate o sobre las espinacas de manera que lo asocie, aún más, algo positivo.
+				</txt>
+			</texto>				
+		</fila>	
+		
+		<fila>
+			<texto>					
+				<txt>
+					3.	Por último la presentación. Es importante que no asocie el plato que le cuesta comer con algo aburrido y monótono si todo lo contrario, con algo divertido. Después de todo lo anterior el final perfecto puede ser una cara en el plato con rodajas de tomate como ojos, un trozo de zanahoria como nariz, una rodaja de berenjena como boca y un poco de lechuga como pelo. Y nunca olvidar la motivación mientras come: "lo fuerte e inteligente que será si sigue comiendo esos productos" para reforzar el ánimo y que ese sea el objetivo final de la dieta.
+				</txt>
+			</texto>				
+		</fila>	
+		
+				
+	</cuerpo>
+	
+	<pie>
+		<link>
+			<ruta> http://www.facebook.com/#!/profile.php?id=100002797761360 </ruta>
+			<texto>Siguenos en las redes sociales</texto>
+		</link>
+		
+		<mail>
+			<correo>
+				informacion@duendesdesanvicente.es
+			</correo>
+			
+			<asunto>
+				informacion
+			</asunto>
+		</mail>
+	</pie>
+    
+</pagina>
+  

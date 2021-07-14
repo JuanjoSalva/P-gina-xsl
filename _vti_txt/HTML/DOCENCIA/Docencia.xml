@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href= "Docencia.xsl"?>
+<!DOCTYPE pagina SYSTEM "Docencia.dtd">
+ 
+<pagina>
+	<titulo> CUERPO DOCENTE</titulo>
+	<cuerpo>
+		<texto1> En la E.I. Duendes podrá encontrar un equipo psicopedagógico cualificado y titulado. </texto1>
+		
+		<texto2> El equipo docente lo forman: </texto2>
+		
+		<punto>
+			- Directora educativa y coordinadora del centro.
+		</punto>
+		
+		<punto>
+			- Directora gerente. 
+		</punto>
+		
+		<punto>
+			- Cuatro educadoras especialistas en Educación Infantil.
+		</punto>
+		
+		<punto>
+			- Un auxiliar de apoyo.
+		</punto>
+		
+		<punto>
+			- Psicóloga: Su función es llevar a cabo un seguimiento del alumno, realizando una evaluación inicial y una observación a lo largo de todo el curso. También se encarga de formar y asesorar al profesorado, así como de impartir charlas y coloquios sobre temas de interés educativo, dirigidas a los padres.
+		</punto>
+		
+		<punto>
+			- Complementan los servicios: cocinera y personal de limpieza.
+		</punto>
+		
+		<texto3>
+			Todos ellos colaboran en las distintas actividades educativas y en la organización del Centro.
+		</texto3>
+		
+		<texto4>
+			Nuestro equipo educativo, aplica a su trabajo afectividad, intuición, equilibrio emocional y madurez.
+		</texto4>
+	</cuerpo>
+    
+</pagina>
+  
